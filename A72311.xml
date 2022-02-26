@@ -1,0 +1,874 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christians journall shewing both the course to be held, and the way to be shund by all those, who desire (as they ought) to enter into life : in three sermons vpon Matthew 7.13.14 / by Samuel Hieron.</title>
+            <author>Hieron, Samuel, 1576?-1617.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1607</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 136 KB of XML-encoded text transcribed from 52 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72311</idno>
+            <idno type="STC">STC 13392.7</idno>
+            <idno type="STC">ESTC S5230</idno>
+            <idno type="EEBO-CITATION">39960694</idno>
+            <idno type="OCLC">ocm 39960694</idno>
+            <idno type="VID">150408</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150408)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1947:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christians journall shewing both the course to be held, and the way to be shund by all those, who desire (as they ought) to enter into life : in three sermons vpon Matthew 7.13.14 / by Samuel Hieron.</title>
+                  <author>Hieron, Samuel, 1576?-1617.</author>
+               </titleStmt>
+               <extent>[4], 99 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Felix Kyngston for Thomas Man,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped, stained,and with print show-through.</note>
+                  <note>Signatures: A-F⁸, G⁴.</note>
+                  <note>Reproduction of original in: Union Theological Seminary (New York, N.Y.). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Matthew VII, 13-14 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150408:1"/>
+            <p>THE CHRISTIANS IOVRNALL: Shewing both the courſe to be held, and the way to be ſhund by all thoſe, who deſire (as they ought) to enter into life.</p>
+            <p>In three Sermons vpon <hi>Mat<g ref="char:EOLhyphen"/>thew</hi> 7.13.14.</p>
+            <p>By SAMVEL HIERON.</p>
+            <q>
+               <bibl>
+                  <hi>Pſalm. 86.11.</hi>
+               </bibl>
+               <p>Teach me thy way O Lord, and I will walk in thy truth: knit my heart vnto thee, that I may feare thy name.</p>
+            </q>
+            <p>AT LONDON, Printed by FELIX KYNGSTON for <hi>Thomas Man.</hi> 1607.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150408:2"/>
+            <pb facs="tcp:150408:2"/>
+            <head>TO THE RIGHT WORSHIPFVLL SIR FRANCIS BARRINGTON, of Barrington Hall in Eſ<g ref="char:EOLhyphen"/>ſex, Knight.</head>
+            <p>
+               <seg rend="decorInit">S</seg>IR, the Wiſeman ſaith, that <hi>Al riuers go into the ſea</hi> 
+               <note n="a" place="margin">
+                  <hi>Eccle.</hi> 1.7.</note>, ſhewing themſelues (as it were) homagers and tribu<g ref="char:EOLhyphen"/>taries to that place, from whence (ſo farre as wee may credit Philoſo<g ref="char:EOLhyphen"/>phie <note n="b" place="margin">Plato in Phaedone.</note>) they haue receiued their firſt begin<g ref="char:EOLhyphen"/>ning. It hath bin often in my thoughts, and more than often in my deſires, that in testi<g ref="char:EOLhyphen"/>monie of my remembring that, (which it were euen a ſin in me to forget) there might paſſe backe from me to your Worſhip, ſome little ſtreame, of thoſe larger brooks of your both countenance and beneuolence, with which my ſtudies in the <g ref="char:V">Ʋ</g>niuerſitie being much refeſhed, and my firſt endeuours in the Ministerie (as it were) by a kinde wa<g ref="char:EOLhyphen"/>tring, helped forward in their growth, I con<g ref="char:EOLhyphen"/>feſſe my ſelfe to be become that <hi>Little,</hi> which
+<pb facs="tcp:150408:3"/>
+by the grace of God I now am in his Church. Wherfore hauing a diſpoſition for the ſatiſ<g ref="char:EOLhyphen"/>faction of ſome friends, to copie a draught of theſe Sermons, I thought I might with one labour doe a publique good, and giue the<g ref="char:cmbAbbrStroke">̄</g> their priuate contentment. And withall it came into my minde to tender them to you, not as the full paiment of ſo great a debt, but as an inſinuation of my deſire to bee thankefull, and of my meaning, hereafter to preſent you with ſome matter of more worth, according as God ſhall enable me, and any conuenient vacation from the du<g ref="char:EOLhyphen"/>ties of my publike function ſhall afford me opportunitie. Thus preſuming, out of your former loue, that this poore offer ſhall at the least be kindly looked vpon, with my many and vnfained prayers for the enlargement of Gods graces vpon your ſelfe, your Lady, and all thoſe young plants, which by the great bleſſing of God haue branched from you both, I humbly take my leaue. From <hi>Modbury</hi> in <hi>Deuon.</hi>
+            </p>
+            <closer>
+               <signed>Your Worſhips euer much bound SAM. HIERON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="sermon">
+            <pb n="1" facs="tcp:150408:3"/>
+            <head>THE CHRISTI<g ref="char:EOLhyphen"/>ANS IOVRNALL. <hi>The first Sermon.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Matth. 7.13.14.</hi>
+                  </bibl>
+                  <p>Enter in at the ſtraite gate; for it is the wide gate, and broade way that leadeth to destruction; and many there be which go in thereat.</p>
+                  <p>Becauſe the gate is ſtraite, and the way narrow that leadeth vnto life, and few there be that find it.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He ſcope and generall drift of theſe words, is to arme and to prepare all thoſe that deſire to be ſaued, vn<g ref="char:EOLhyphen"/>to a kind of<note n="*" place="margin">The ſcope of the place.</note> hardſhip and reſtraint, and to withdraw them from framing themſelues vnto the courſe and faſhion of the multitude. The point is deliuered in forme of a very briefe in<g ref="char:EOLhyphen"/>ſtruction, or aduertiſement, as, <hi>(Enter in
+<pb n="2" facs="tcp:150408:4"/>
+at the ſtraite gate,</hi>
+               <note place="margin">The diuiſi<g ref="char:EOLhyphen"/>on of the Text.</note>) it is backed with two reaſons in naturall oppoſition each to o<g ref="char:EOLhyphen"/>ther; the firſt is this, becauſe <hi>the wide and broade way,</hi> which hath greateſt ſtore of company, leadeth <hi>to deſtruction:</hi> the ſecond is this, becauſe <hi>the ſtraite gate and the narrow way,</hi> which hath in co<g ref="char:cmbAbbrStroke">̄</g>pariſon but few paſſengers, is that which bring<g ref="char:EOLhyphen"/>eth <hi>vnto life.</hi> This is briefely the ſcope and order of the place, I will treate of it in the ſame method, that I haue obſer<g ref="char:EOLhyphen"/>ued in opening it. And firſt of the aduer<g ref="char:EOLhyphen"/>tiſement it ſelfe.</p>
+            <p>
+               <note place="margin">The firſt part.</note>
+               <hi>Enter in at the ſtrait gate:</hi> And there<g ref="char:EOLhyphen"/>in firſt the meaning muſt be laboured for: the chiefe thing is, what is vnder<g ref="char:EOLhyphen"/>ſtood by the <hi>ſtraite gate.</hi>
+               <note n="*" place="margin">What is meant by Gate and way.</note> By <hi>the gate and way,</hi> which we are vrged to <hi>enter</hi> into, is meant that holy courſe, which the Lord hath laid down vnto vs in his holy word; it is the ſame which <hi>Dauid</hi> 
+               <note n="a" place="margin">
+                  <hi>Pſa.</hi> 119.3.</note> termeth <hi>the Lords way; the way of his</hi> 
+               <note n="b" place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>erſ.</hi> 14.</note> 
+               <hi>teſtimonies; the way of</hi>
+               <note n="c" place="margin">
+                  <hi>Verſ.</hi> 30.</note> 
+               <hi>truth: the way of Gods</hi>
+               <note n="d" place="margin">
+                  <hi>Verſ.</hi> 32.</note> 
+               <hi>Comman<g ref="char:EOLhyphen"/>dements: the</hi> 
+               <note n="e" place="margin">
+                  <hi>Pſ.</hi> 25.10.</note> 
+               <hi>path of the Lord;</hi> and Ie<g ref="char:EOLhyphen"/>remy, <hi>the</hi> 
+               <note n="f" place="margin">
+                  <hi>Ier.</hi> 6.16.</note> 
+               <hi>good way.</hi> It is called a <hi>ſtraite gate,</hi>
+               <note place="margin">Why it is cal<g ref="char:EOLhyphen"/>led a ſtraite and narrow way.</note> and afterwards a <hi>narrow way;</hi> firſt becauſe of the reſtraint, and (as may ſeeme) hard condition which it layeth
+<pb n="3" facs="tcp:150408:4"/>
+vpon fleſh and blood, (as we ſhall ſee heereafter in the farther handling it;) ſe<g ref="char:EOLhyphen"/>condly becauſe of the circumſpection and care to be vſed in walking in it, as in a way from which becauſe of the nar<g ref="char:EOLhyphen"/>rownes therof, a man eaſily may decline. This is the way, that Chriſt calleth al that will be ſaued to enter into, becauſe on<g ref="char:EOLhyphen"/>ly this way leadeth vnto life. I wil ſpeake leſſe by way of expoſition and interpre<g ref="char:EOLhyphen"/>tation, becauſe what doubts ſoeuer may ariſe touching the ſenſe, ſhall in the fur<g ref="char:EOLhyphen"/>ther enlarging of euery particular, be fully diſcouered. The thing that I will chiefely labour in; is according to the drift of the place, to ſhew what things ought of neceſſitie to bee in euery one that would be ſaued. It will be excellent matter of direction, to all thoſe that are yet vnconuerted, and of reſolution and confirmation to ſuch as haue truly cared to walke the way that leadeth vnto life.</p>
+            <p>The firſt thing which by authoritie of this text of ſcripture ought to bee in eue<g ref="char:EOLhyphen"/>ry one that deſireth ſaluation, is,<note place="margin">
+                  <hi>Doctr.</hi> 1.</note> a right vnderſtanding, and a true acknowledge<g ref="char:EOLhyphen"/>ment of his owne wandring. For euen in reaſon, before a man can frame him<g ref="char:EOLhyphen"/>ſelfe
+<pb n="4" facs="tcp:150408:5"/>
+to enter into a right courſe, he muſt be reſolued and perſwaded of his owne former miſtaking; for why elſe ſhould he change his faſhion? if he haue not er<g ref="char:EOLhyphen"/>red before, to what end ſhould he relin<g ref="char:EOLhyphen"/>quiſh his preſent courſe, and betake him<g ref="char:EOLhyphen"/>ſelfe to a guiſe, to which he hath not he<g ref="char:EOLhyphen"/>therto been accuſtomed? Reaſon it ſelfe muſt needs yeeld to this in other things, and it muſt needes be true in this. How ſhall I perſwade a man to enter into the ſtraight gate, If he doe not feele and per<g ref="char:EOLhyphen"/>ceiue himſelfe to bee in a way in which it is not ſafe for him to continue? If wee looke into the ſcripture wee ſhall ſee good proofe for this point, viz. that the acknowledgement of our by-paſt error, is the very firſt degree vnto ſound con<g ref="char:EOLhyphen"/>uerſion. To what ende thinke wee is it, that by Gods ſpeciall appointment, the terrors of the law ſhould firſt be prea<g ref="char:EOLhyphen"/>ched, and ſhould goe like the mightie ſtrong wind (which in Gods appearing to <note n="g" place="margin">1. <hi>King.</hi> 19,</note> 
+               <hi>Elias,</hi> rent the mountaines) before the calme, and gentle, and ſtill voyce of the Goſpell, I ſay to what ende is that, and what did the Lord aime at herein, but onely this, that men might ſee where
+<pb n="5" facs="tcp:150408:5"/>
+they be, and in what caſe they ſtand; and that, holding on in the way which na<g ref="char:EOLhyphen"/>ture hath ſet them in, there can nothing follow but deſtruction? As the Lord him<g ref="char:EOLhyphen"/>ſelfe at the firſt began with our Grand<g ref="char:EOLhyphen"/>father <hi>Adam</hi> after he had ſinned, forcing him by varietie of demaunds to ſee his errors, <note n="h" place="margin">
+                  <hi>Geneſ.</hi> 3.</note> 
+               <hi>(Where art thou, and who tolde thee that thou wast naked, haſt thou eaten of the tree?)</hi> ſo al the Prophets and Apo<g ref="char:EOLhyphen"/>ſtles after, held the ſame courſe: the firſt thing they laboured in, was to make men ſee that there was no hope of happines, without a preſent forſaking of their ac<g ref="char:EOLhyphen"/>cuſtomed behauiour. <hi>Ieremie</hi> when hee would ſhew that among the people of his times; there was (for the generalitie) no true conuerſion, reporteth the matter in theſe <note n="i" place="margin">
+                  <hi>Jerem.</hi> 8.6.</note> wordes, <hi>I hearkned but none ſpake aright, no man repented him of his wickedneſſe, ſaying, what haue I done?</hi> as if he had ſaid, there was not a man, that had any ſo much as a conceipt of his owne erring, they were all ſtronglie per<g ref="char:EOLhyphen"/>ſwaded, that their courſes were right and vnblameable, and therefore euery <hi>man turned to his race, as the horſe to the bat<g ref="char:EOLhyphen"/>tell.</hi> The ſame Prophet deſcribing the
+<pb n="6" facs="tcp:150408:6"/>
+repentance of the eſtate of Iſraell vnder the name of the Tribe of Ephraim (which bare the ſway in that kingdome) <note n="k" place="margin">
+                  <hi>Ier.</hi> 31.18.</note> re<g ref="char:EOLhyphen"/>lates it thus, <hi>I heard Ephraim lamenting thus, Thou haſt corrected me, and I was chaſtiſed as an vntamed calfe, conuert thou mee and I ſhall bee conuerted, for thou art the Lord my God;</hi> now among other ſignes and euidences of repentance, hee ſaith <hi>Ephraim ſmote vpon his thigh,</hi> as who ſhould ſay, Ephraim hauing all this while runne a ſtubborne courſe in the ve<g ref="char:EOLhyphen"/>rie depth of ſecuritie, now began to re<g ref="char:EOLhyphen"/>call himſelfe, and to thinke, that que<g ref="char:EOLhyphen"/>ſtionles he was out of his way; the courſe was dangerous, and it was now high time to reforme it. It is noted in the pro<g ref="char:EOLhyphen"/>digall ſonne (the perfect patterne of a true conuert) that when he had runne a lewde courſe, waſtfully conſuming the portion of goods which fell vnto him, ſuppoſing (as many younkers doe) his ſtocke to haue been as a liuing ſpring, which could neuer be drawne drie; at laſt <hi>he came to himſelfe;</hi> the bethinking him<g ref="char:EOLhyphen"/>ſelf of his by-paſt folly, was the firſt ſtep vnto his recouery. Me thinkes when I reade that parable, I doe ſee the young
+<pb n="7" facs="tcp:150408:6"/>
+prodigall like to a man riding faſt in a wrong way, and at laſt vpon a fodaine, by the call of ſome that ſeeth his miſta<g ref="char:EOLhyphen"/>king, rayning vp his horſe, and euen in<g ref="char:EOLhyphen"/>wardly chaſing and fretting with him<g ref="char:EOLhyphen"/>ſelfe for his former careleſnes; <hi>(he came to himſelfe)</hi> he thought all well before, but now he perceiued how things went, and what would be the iſſue if he ſo con<g ref="char:EOLhyphen"/>tinued. When the Lord was pleaſed to cal <hi>Paul,</hi> who before (as himſelfe confeſ<g ref="char:EOLhyphen"/>ſeth) was <note n="l" place="margin">1. <hi>Tim.</hi> 5.13.</note> 
+               <hi>a perſecutor, and a blaſphemer, and an oppreſſor,</hi> ſuddainly there came a voyce from heauen ſaying, <note n="m" place="margin">
+                  <hi>Act.</hi> 9.4.</note> 
+               <hi>Saul, Saul, why perſecuteſt thou me?</hi> as if the Lord had ſaid: O thou man, knoweſt thou what thou doeſt, vnderſtandeſt thou who it is againſt whom thou ſetteſt thy ſelfe? conceiueſt thou the danger that will fol<g ref="char:EOLhyphen"/>low it? ſo that the firſt thing God ſought to bring him to, was the ſight of his own preſent error, and that being once per<g ref="char:EOLhyphen"/>ceiued, hee became tractable, <note n="n" place="margin">
+                  <hi>Act.</hi> 9.6.</note> 
+               <hi>Lord</hi> (ſaith hee) <hi>what wilt thou that I doe?</hi> I might eaſily multiplie examples of this kind, but theſe may ſerue to ſhew, that the ſenſe and apprehenſion of our owne wandring is the firſt ſtep to our entrance
+<pb n="8" facs="tcp:150408:7"/>
+into life. And therefore it is that the ſcripture is ſo full, in diſcouering our na<g ref="char:EOLhyphen"/>turall erring. The ſpirit of God ſpeaking of the whole race and generation of <note n="o" place="margin">
+                  <hi>Pſalm.</hi> 14.3.</note> mankind, (for ſo <note n="p" place="margin">
+                  <hi>Rom.</hi> 3.10.</note> 
+               <hi>Paul</hi> applyeth) ſaith <hi>that all are gone out of the way.</hi> In <hi>I<g ref="char:EOLhyphen"/>ſaiah</hi> 
+               <note n="q" place="margin">
+                  <hi>Jſay.</hi> 53.6.</note> 
+               <hi>All wee</hi> (ſaith the Prophet) <hi>like ſheepe haue gone aſtray:</hi> it is a place worth the noting; <hi>we haue gone aſtray like Sheep,</hi> there is no creature more apte to wander then a ſheepe, there is none more vn<g ref="char:EOLhyphen"/>apte of it ſelfe to returne into the right way againe. <hi>The Oxe</hi> (as the ſcripture ſaith) <hi>knoweth his owner, and the Aſſe his maſters crib,</hi> the very ſwine accuſtomed to the trough, if hee goe abroade, yet at night will finde the way home againe: but the ſheepe once ſtrayed of himſelfe returneth not. <hi>All we</hi> therefore (ſaith the Prophet) <hi>like ſheepe are gone aſtray,</hi> to ſhew our ſimplicitie, and how vnpoſſible a thing it is for vs of our owne power to returne: And the Prophet in the next words giueth a reaſon, <hi>Wee haue turned euery one to his owne way:</hi> Gods waies and our owne waies are directly contra<g ref="char:EOLhyphen"/>rie <note n="r" place="margin">
+                  <hi>Jſay.</hi> 55.8.</note>. We runne naturally after the waies of our owne hearts, and we cannot chuſe
+<pb n="9" facs="tcp:150408:7"/>
+then but wander vtterly from the way of life. Again the leſſon of our Sauiour here belongeth to all, <hi>Enter in at the ſtraite gate,</hi> Entrance into a gate preſuppoſeth a being without the gate; no man is bid to enter, that is alreadie within: if all be exhorted to enter, it argueth that we are all without, &amp; if we be conſidered in our ſelues, then as the <note n="ſ" place="margin">
+                  <hi>Rom.</hi> 3.16.</note> Apoſtle ſaith, <hi>Deſtru<g ref="char:EOLhyphen"/>ction and calamitie are in our wayes, and the way of peace we doe know.</hi> This care of the holy Ghoſt, in the whole courſe of the ſcripture to acquainte vs with our wandrings, argueth the neceſſitie of the right vnderſtanding of it, if wee deſire to bee ſaued. Let vs make vſe of this point.</p>
+            <p>It is a point of great vſe,<note place="margin">Vſe.</note> helping vs in the moſt needfull point, the right iudge<g ref="char:EOLhyphen"/>ing of our owne eſtate, let vs not be wil<g ref="char:EOLhyphen"/>fully careleſſe herein I beſeech you; why ſhould we be deſirous to iudge in other things, as of times and ſeaſons, of the face of the skie (as Chriſt ſaith) of wares and commodities, of caſes and queſtions in the law, and yet neuer care to vnder<g ref="char:EOLhyphen"/>ſtand how it fareth with our own ſoules? The ſoule is the principall, and ought
+<pb n="10" facs="tcp:150408:8"/>
+principally to bee looked vnto. Let vs learne to bee able to iudge of our ſelues whether it be with vs as it ought to bee: <hi>Proue your ſelues</hi> (ſaith the <note n="t" place="margin">2. <hi>Cor.</hi> 13.5.</note> Apoſtle): <hi>Let vs ſearch and trie our wayes,</hi> ſaith <note n="u" place="margin">Lam. 3.40.</note> 
+               <hi>Iere<g ref="char:EOLhyphen"/>mie: Examine your heart vpon your bed,</hi> ſaith <note n="*" place="margin">
+                  <hi>Pſal.</hi> 4.4.</note> 
+               <hi>Dauid.</hi> We all haue a hope that it is well with vs, let vs looke to it, that our hope as the <note n="x" place="margin">
+                  <hi>Rom.</hi> 5.5.</note> Apoſtle ſpeaketh, may bee ſuch as may not <hi>make vs aſhamed.</hi> There is no hurt gotten by the tryall of our ſelues, there is alwaies danger in ſe<g ref="char:EOLhyphen"/>curitie. There be thouſands plunged in<g ref="char:EOLhyphen"/>to hell, that thought nothing leſſe till they came there, and now they are paſt recouerie: wee are all trauailers in one of theſe two waies, and wee ſhall arriue at one of theſe two places here mentio<g ref="char:EOLhyphen"/>ned, life or deſtruction, there is no third: who would not bee glad to know touch<g ref="char:EOLhyphen"/>ing himſelfe, in which of the two waies he is, that if he be in the euill way he may ſpeedily come out of it, if hee bee in the right, he may goe on therein with cheere<g ref="char:EOLhyphen"/>fulnes? This point is the thing that I haue aimed at in chooſing this text, and by it you ſhall as eaſily vnderſtand it, as you doe in your going home iudge by ſuch
+<pb n="11" facs="tcp:150408:8"/>
+ſtiles and gates, and hedges, whether you are in the true way yea or no. Now this I may deliuer to you for a matter of certaintie, that all (excepting infants, the manner of whoſe conuerſion is knowne only vnto God) all I ſay which are parta<g ref="char:EOLhyphen"/>kers of life eternall, this is their firſt ſtep to it, the ſight and vnderſtanding of their former errors; God firſt openeth their hearts, and maketh them to perceiue that they are in a courſe, the iſſue whereof is eternall death; with this their hearts are ſmitten and appalled, and they are euen woe with themſelues to conſider it. Marke then this, Art thou one that neuer yet ſaw the error and miſery of thine owne naturall eſtate, that neuer hadſt yet any compunction of heart to con<g ref="char:EOLhyphen"/>ſider thine owne wandring, that waſt neuer grieued to thinke vpon thy life paſt, to ſee how thou haſt all this while hitherto been miſtaken? art thou one that haſt alwaies pleaſed thy ſelfe in thine owne courſes, ſcarſely ſo much as calling it into queſtion, whether thou walkeſt as thou oughteſt to doe yea or no? ſurely thy caſe is fearfull and dam<g ref="char:EOLhyphen"/>nable, and I may ſurely ſay vnto thee,
+<pb n="12" facs="tcp:150408:9"/>
+that if thou holdeſt on ſo, thou ſhalt ne<g ref="char:EOLhyphen"/>uer be ſaued. Let vs in the feare of God looke vnto it, it is a matter that con<g ref="char:EOLhyphen"/>cernes the greateſt part; wee bleſſe our ſelues in our owne hearts, we haue liued hithertoo after our owne luſts, worſhip<g ref="char:EOLhyphen"/>ping God when and in what manner our ſelues pleaſed, taking to our ſelues the libertie of groſſe ſinnes, hatred, enuy, couetouſnes, oppreſſion, drunkenneſſe, and the like, and we bee not yet perſwa<g ref="char:EOLhyphen"/>ded, nor can be, that the way we go, and the courſe wee hold is otherwiſe then it ought to bee. There is not the vileſt wretch, bee his faſhion of life neuer ſo vile, but he will ſay, he hopes he is right, nay hee will bee very confident in it that he is ſo, and yet neuer in his life had any true remorſe, nor euer knew, or percei<g ref="char:EOLhyphen"/>ued what it was to wander from the wayes and pathes of happines. Deceiue we not our ſelues, either we muſt begin here, at the ſight of our old errors, or elſe we can neuer tread the path, that leadeth vnto life.</p>
+            <p>
+               <note place="margin">
+                  <hi>Doctr.</hi> 2.</note>The next thing which by the rule of my text muſt be in euery one that would be ſaued, is, care to ſeeke out the true
+<pb n="13" facs="tcp:150408:9"/>
+way, and the ſure path, that leadeth and bringeth the goers in it vnto life. This is plaine alſo (as to me ſeemeth) by this ſcripture, for as the ſight of a mans an<g ref="char:EOLhyphen"/>cient wandring, muſt goe before his en<g ref="char:EOLhyphen"/>trance into a new courſe; ſo of neceſſitie when a man perceiueth his errors, the right way muſt bee ſought out, and cer<g ref="char:EOLhyphen"/>tainlie vnderſtood, before hee can enter thereinto: ſo that he which bids me en<g ref="char:EOLhyphen"/>ter into the gate of life, bids me withall to ſeeke where that gate is, for otherwiſe my deſire of enterance is in vaine. If a maſter will his ſeruant to goe to ſuch a houſe, it is preſuppoſed that either hee doth know the way to it, or elſe muſt make enquirie for it. And this care to enquire out the true way in this particu<g ref="char:EOLhyphen"/>lar, is the plaine doctrine of the <note n="y" place="margin">
+                  <hi>Jerem.</hi> 6.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ſcrip<g ref="char:EOLhyphen"/>ture; <hi>Stand in the wayes, and behold and aske for the old way which is the good way, and walke therein, and yee ſhall find reſt for your ſoules;</hi> there is a plaine charge, and an expreſſe commaundement, in the multitude and variety of ſuppoſed waies vnto ſaluation, to make diligent enqui<g ref="char:EOLhyphen"/>rie which is the good way, <hi>ſtand in the waies &amp; aske. Trie all things</hi> ſaith the <note n="z" place="margin">1. <hi>Theſſ.</hi> 5.21.</note> A<g ref="char:EOLhyphen"/>poſtle;
+<pb n="14" facs="tcp:150408:10"/>
+it is a rule giuen principallie touching doctrine and precepts dire<g ref="char:EOLhyphen"/>cting to eternall life: <hi>Paul</hi> willeth them to examine and ponder them all, and ne<g ref="char:EOLhyphen"/>uer leaue trying till they haue bolted out the truth, as the men of Beroea did, that heard <hi>Paul, they ſearched the ſcripture daily, whether thoſe things were ſo</hi> 
+               <note n="a" place="margin">
+                  <hi>Act.</hi> 17.11.</note>. To halte betwixt two opinions, and to bee in ſuſpence, not knowing which way ſpecially to encline, and to be in religion as idle beggars are in their way, readie to goe which way ſoeuer the ſtaffe falleth, how hatefull a thing it is in the ſight of God, we may conceiue by the ſharpe re<g ref="char:EOLhyphen"/>proofe vſed by <hi>Elias</hi> vnto the wauering people, <note n="b" place="margin">1. <hi>King.</hi> 18.21</note> 
+               <hi>how long will ye halt betweene two opinions?</hi> When there were differences of opinions in the world touching Chriſt, ſome taking him for <hi>Iohn Baptiſt,</hi> ſome for <hi>Elias,</hi> ſome for <hi>Ieremias,</hi> ſome for one of the Prophets; our Sauiour called his diſciples together, and would needes know their <note n="c" place="margin">
+                  <hi>Mat.</hi> 16.15.</note> iudgement, <hi>but whom ſay ye that I am?</hi> Chriſt would teach thereby that when there are varieties of opinions in matters of religion, ſome ſay this is the way, and ſome ſay that, men ſhould
+<pb n="15" facs="tcp:150408:10"/>
+not (as the manner is) take occaſion ther<g ref="char:EOLhyphen"/>by to ſtand doubtfull, and to adhere to nothing certainly, but ſhould enquire with the greater care, that they may bee certainly and ſoundly reſolued in the truth. There is no man profeſſeth any thing, but (if it be but for his credit ſake) he will labour to vnderſtand if it be poſ<g ref="char:EOLhyphen"/>ſible the very myſterie of it, and to know the certainty of ſuch things as are apper<g ref="char:EOLhyphen"/>tayning to it: How much more in religi<g ref="char:EOLhyphen"/>on ſhould the certaine trueth bee labou<g ref="char:EOLhyphen"/>red for? error in other things doth pre<g ref="char:EOLhyphen"/>iudice the body only, and the things which concerne it, but the miſtaking in this, I meane in the maine points of it, is the vtter and irrecouerable hazard of a mans ſoule. This may ſerue briefely for the opening of this ſecond point, let vs now come to applie it.</p>
+            <p>This point alſo will conuince vs,<note place="margin">Vſe.</note> to be not as yet entered into the way to life, in as much that we are ſo exceeding care<g ref="char:EOLhyphen"/>leſſe in this dutie of ſeeking and ſearch<g ref="char:EOLhyphen"/>ing out the trueth. Some are drowned in the depth of ignorance, and neuer en<g ref="char:EOLhyphen"/>tertaine ſo much as a thought, whether their way bee right yea or no: ſome are
+<pb n="16" facs="tcp:150408:11"/>
+profanely deſperate and put all to an aduenture, not caring what be the iſſue; if they be right ſo it is, if not, what reme<g ref="char:EOLhyphen"/>dy, they muſt beare it as well as they may: ſome be ſuperſtitious, and deuoted to their forefathers ſteppes and hold their courſe for a ſufficient rule, without further queſtion: ſome are time-ſeruers, and looke only to the law, as that leades ſo wil they follow, to day on this faſhion, to morrow on another, if need be: ſome are peeuiſh and peruerſe, and pleade the diuerſitie of waies, and the multitude of religions, and ſo thinke to be excuſed: ſo that by that time we haue put all to theſe ſeuerall heads which belong vnto them, we ſhall finde ſcarce a <hi>tenth</hi> as the Pro<g ref="char:EOLhyphen"/>phet ſaith, whoſe care it is to labour and take paines to ſeeke and inquire which is indeed the gate of grace, and which is the true path that leadeth vnto hea<g ref="char:EOLhyphen"/>uen. Indeede the world is full of buſi<g ref="char:EOLhyphen"/>nes, and each man as his humor leades him is employed, the couetous man for his wealth, the malitious man for his re<g ref="char:EOLhyphen"/>uenge, the voluptuous liuer for his plea<g ref="char:EOLhyphen"/>ſure, the wanton for his luſt, the proud for his backe; for theſe things men ſeeke
+<pb n="17" facs="tcp:150408:11"/>
+farre and neere, all the deuices, all the meanes that may bee poſſible; but an aſ<g ref="char:EOLhyphen"/>ſurance that the way we haue choſen to bring vs to heauen, is the right way, of all things els it is leaſt thought vpon. It is a ſtrange thing, there is no man ſo ſecure for his way to mill, or to market, as he is for his way to life eternall. In thoſe waies he will be perfit, if he doubt he will aske, he wil inquire, Is this y<hi rend="sup">e</hi> way, what marks, what turning to ſuch or ſuch a place? as for the other way we go all vpon meere conceipt, wee thinke it is ſo, wee haue heard others ſay ſo, but we ſeeke not for the certaintie whether it bee ſo. What a miſerie is this, and how hath Sathan be<g ref="char:EOLhyphen"/>guiled the greateſt part, for the filling of his owne barnes? In this blindnes he car<g ref="char:EOLhyphen"/>rieth men hoodwinkre, (as a man would carrie a hawke vpon his fiſt) whether hee liſt, and they will bee in the pit before they are ware of it. I beſeech you take notice of this pointe, it is no ſlight thing I entreat of; he that may commaunds vs, hee that can condemne vs, hee which ere it be long ſhal iudge vs, euen he char<g ref="char:EOLhyphen"/>geth vs here to enter in at the ſtraite gate. How ſhall we enter if we know it
+<pb n="18" facs="tcp:150408:12"/>
+not, how ſhall we know it if wee ſeeke it not? Neither is it a ſlight kind of ſee<g ref="char:EOLhyphen"/>king that wee are called vnto: there bee many by waies, but the right way is but one; as in ſhooting a man may miſſe di<g ref="char:EOLhyphen"/>uerſly, hee may ſhoote vnder, hee may ſhoote ouer, he may ſhoote wide on this ſide and one that, but there is but one way to hit the marke, ſo a man may ma<g ref="char:EOLhyphen"/>ny waies be miſtaken, but there is but one gate that leadeth vnto happines, and all the cunning is to find it. Well, the ſcripture will teach vs, the word of God will be as the Angell of God to <hi>Peter</hi> to direct vs; and if we will vouchſafe to at<g ref="char:EOLhyphen"/>tend the full opening of this text, I doubt not but by the helpe of God wee ſhall vnderſtand it. In the meane time let this preuaile againſt our ſecuritie, and let it bring vs ſo farre on our way to life, as to make vs ſay with <note n="d" place="margin">
+                  <hi>Act.</hi> 9.6.</note> 
+               <hi>Paul</hi> when he was ſtroken to the ground, <hi>Lord what wilt thou that I doe,</hi> and with the poore <note n="e" place="margin">
+                  <hi>Act.</hi> 16.30.</note> Iay<g ref="char:EOLhyphen"/>lor, <hi>what muſt I doe to bee ſaued?</hi> this good deſire being once begotten in vs, the reſt cannot chuſe but be ſupplied.</p>
+            <p>
+               <note place="margin">
+                  <hi>Doctr.</hi> 3.</note> The third thing which this text neceſ<g ref="char:EOLhyphen"/>ſarily commendeth vnto vs, if we would
+<pb n="19" facs="tcp:150408:12"/>
+bee ſaued, is, a reſolution when we haue felt our error, and found the right way and the true gate, all delaies laid aſide to make a preſent entrie. If you aske how I proue this by my text, I thus make it manifeſt. It is a rule in ciuill matters, that in bonds of debt betweene man &amp; man, when there is no certaine day named, then the debt is due preſently: ſo heere, the commandement and charge being giuen indefinitely, without any expreſſe limitation of any ſet time, it followeth that it is preſently to be performed. Our Sauiour ſaith not, enter hereafter when thou art more at leaſure; or to the yong man, enter when thou art old, or to the old man enter when thou art a dying, or to the couetous man, enter when thou haſt glutted thy deſire with wealth, or to the drunkard, enter when thou art vtterly diſabled that thou canſt bee drunke no longer; but he ſaith to all, at the inſtant <hi>Enter;</hi> do it preſently, do it ſtraight-way, deferre not to do it. And this is alſo the plaine doctrine of the Scripture; <hi>I made hast</hi> ſaith <note n="f" place="margin">Pſal. 119.60.</note> 
+               <hi>Dauid, and I delayed not to keepe thy Commandements.</hi> It is commen<g ref="char:EOLhyphen"/>ded in <note n="g" place="margin">Matth. 4.20.</note> 
+               <hi>Peter</hi> and <hi>Andrew,</hi> that when
+<pb n="20" facs="tcp:150408:13"/>
+Chriſt called them, they left their <hi>nettes ſtraight-way.</hi> When Chriſt called <note n="h" place="margin">Luke <hi>19.6.</hi>
+               </note> 
+               <hi>Za<g ref="char:EOLhyphen"/>cheus,</hi> the Text ſaith, that hee <hi>came downe hastily.</hi> The reaſon why there muſt be a reſolution of preſent enterance is, becauſe, as there is a time of grace in which the gate of mercy ſtands open, ſo there is a time of iudgement, in which this gate will be ſhut vp, and all hope of entrie vtterly remoued. <hi>Dauid</hi> ſpeaketh of a time, in which <hi>God may bee found</hi> 
+               <note n="i" place="margin">
+                  <hi>Pſalm.</hi> 32.6.</note>, which implieth that there is a time in which God will not be found. The time when he may be found, what it is,<note n="k" place="margin">2. <hi>Cor.</hi> 6.2.</note> 
+               <hi>Paul</hi> teacheth, where ſpeaking of the prea<g ref="char:EOLhyphen"/>ching of the word, and of the offers of grace, that are therein made daily; hee ſaith, <hi>Behold, now is the accepted time, now is the day of ſaluation;</hi> the time preſent is the only time, the time to come is no time, no more then the time paſt, it is a matter of meere vncertainty; <hi>To day if ye will heare,</hi> it is read vnto vs continual<g ref="char:EOLhyphen"/>ly <note n="l" place="margin">
+                  <hi>Pſalm.</hi> 95.7.</note>. There is a time comming, and wee know not how neare it is, (though the generall end may be farther off, yet our particular account cannot be farre, wee ſee daily how ſome drop away of all
+<pb n="21" facs="tcp:150408:13"/>
+ages, and eſtates); I ſay there is a time comming, in which (as <note n="m" place="margin">
+                  <hi>Luk.</hi> 13.24.</note> Chriſt ſaith) <hi>many ſhall ſeeke to enter in, and ſhall not be able.</hi> O what wofull yelling, and pitifull crying, &amp; earneſt knocking there will be then at that gate, with, <note n="n" place="margin">
+                  <hi>Matth.</hi> 25.11.12.</note> 
+               <hi>Lord, Lord open vnto vs;</hi> when that heauy doome, <hi>depart fro<g ref="char:cmbAbbrStroke">̄</g> me I know you not,</hi> ſhall be their porti<g ref="char:EOLhyphen"/>on? This is the reaſo<g ref="char:cmbAbbrStroke">̄</g> why it is no ſafe de<g ref="char:EOLhyphen"/>laying; I would we would learne wiſe<g ref="char:EOLhyphen"/>dome fro<g ref="char:cmbAbbrStroke">̄</g> our outward buſineſſes: what makes husbandmen break their ſleepe, and whiles it is yet night, to bee trauel<g ref="char:EOLhyphen"/>ling to the ſea ſide for their ſand; <note n="*" place="margin">It is the vſe of the weſt-parts neere the ſea, to ma<g ref="char:EOLhyphen"/>nure their ground with ſand.</note> meet them, aske them the cauſe why they are vp ſo exceeding ſoone? The anſwere is ready, (you know it better then my ſelf) the tyde requires it, a peece of an houre loſt, may breed much hinderance, the time of the yeere haſteneth, and when it is gone, it cannot bee recalled. Oh, can we not command the tyde to ſtay vs, but muſt wee ride and poſt, and make ſuch haſt to preuent it; and thinke we to haue the gate of mercy ſtand ope<g ref="char:cmbAbbrStroke">̄</g> at our plea<g ref="char:EOLhyphen"/>ſure? Be not deceiued, <hi>Eſau</hi> came tardie, and ſought the bleſſing with teares, but could not obtaine it <note n="o" place="margin">
+                  <hi>Hebr.</hi> 12.17.</note>.</p>
+            <p>
+               <pb n="22" facs="tcp:150408:14"/>
+               <note place="margin">Vſe.</note>The vſe is to cure that euill ſicknes of delaying, which is the very bane of ſo many ſoules. I remember the report the <note n="p" place="margin">Hag. <hi>1.2.</hi>
+               </note> Prophet <hi>Haggay</hi> maketh of the people that neglected the reedifying of the Te<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ple, <hi>This people</hi> (ſaith he) <hi>ſay that the time is not yet come, that the Lords houſe ſhould be builded:</hi> ſo many thinke it is not yet time for them to looke to heauenward, youth muſt haue his courſe, the couet<g ref="char:EOLhyphen"/>ous bag muſt be filled, the pleaſure of the fleſh muſt be fully taſted, ambition muſt come to his height, and then it will be time to retire. <note n="q" place="margin">
+                  <hi>Prou.</hi> 6.10.</note> 
+               <hi>Yet a little more ſleepe</hi> ſaith the <hi>ſluggard:</hi> let God beare with vs a little, and in time we will enter. This is as the Scripture tearmeth it, the very <hi>deepenes of Sathan,</hi> thus to beguile men; and no doubt there are many in hell, which had a meaning in their life time to enter in, but God hath cut the<g ref="char:cmbAbbrStroke">̄</g> ſhort, and depriued them of that, which when they might, they refuſed to accept of. Well if we haue ſeene our naturall wan<g ref="char:EOLhyphen"/>dering, if God hath opened our hearts, that we perceiue there is no remedie but a new courſe muſt be entered into, if we haue learned out of the word of God,
+<pb n="23" facs="tcp:150408:14"/>
+which is the way; let vs reſolue vpon a preſent entry. Chriſt ſaith, <hi>the kingdome of heauen ſufferreth violence</hi> 
+               <note n="r" place="margin">
+                  <hi>Mat.</hi> 11.12.</note>, me thinkes Chriſt there ſpeakes of heauen as of a matter offred, which if it bee not pre<g ref="char:EOLhyphen"/>ſently taken, is preſently loſt; and there<g ref="char:EOLhyphen"/>fore all men of diſcretion that know the worth of it, preſſe, and throng toward it, and catch after it, and euen ſwear about it, that they may haue it while there is poſſibilitie of obtayning it. <hi>I opened my mouth and panted</hi> ſaith <note n="ſ" place="margin">
+                  <hi>Pſa.</hi> 119.131.</note> 
+               <hi>Dauid,</hi> there was haſt; <hi>I follow hard toward the marke</hi> ſaith <note n="t" place="margin">
+                  <hi>Philip.</hi> 3.14.</note> 
+               <hi>Paul,</hi> there was ſpeed. This is the third thing required to ſaluation; there is no time named, therefore it muſt bee done preſently.</p>
+            <p>The fourth thing which now follow<g ref="char:EOLhyphen"/>eth to bee treated of, is the entrance it ſelfe: our former wa<g ref="char:cmbAbbrStroke">̄</g>dering muſt be felt, the right and true way muſt bee fought for, when it is found, a reſolution of pre<g ref="char:EOLhyphen"/>ſent entrance muſt bee put on; and then next we muſt put forward. <hi>Enter in at the ſtraite gate.</hi> To this acte of entrance there are two things required, the firſt is (that I may vſe termes agreeable to my text) ſtooping; the ſecond a ſtripping of
+<pb n="24" facs="tcp:150408:15"/>
+our ſelues of whatſoeuer may hinder our entrance. Firſt there muſt bee a kind of ſtooping, becauſe the comming in is low. It is ſaid of heauen in the ſcripture, <note n="u" place="margin">
+                  <hi>2.</hi> Corin. <hi>5.1.</hi>
+               </note> 
+               <hi>that it is ab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe not made with hands:</hi> Now as in the matter thereof it is diffe<g ref="char:EOLhyphen"/>ring from our earthly buildings, ſo is it in the framing and contriuing of it. In great mens houſes it is a great eyeſore, to ſee a little, low, and pinching entrie to a large and ſpacious dwelling; but to the end all things may be anſwerable, as the houſe is of great receipt, ſo the gates muſt be high and loftie, and the com<g ref="char:EOLhyphen"/>ming in according. But now in this houſe which is eternall in the heauens, it is o<g ref="char:EOLhyphen"/>therwiſe. Indeede it is large within, <hi>for in my fathers houſe</hi> (ſaith <note place="margin">
+                  <hi>Iohn</hi> 14.2.</note> Chriſt) <hi>are ma<g ref="char:EOLhyphen"/>ny manſions;</hi> but yet the gate vnto it is exceeding low, the entrie narrow, the paſſage in, very ſtraight: It is the gate of humility. A man that beares vp himſelfe aloft, in the pride, and ſecuritie, and ſenſ<g ref="char:EOLhyphen"/>leſnes of his owne heart, that leaneth to his owne wiſedome, that pleaſeth him<g ref="char:EOLhyphen"/>ſelfe in a flattering opinion of the good<g ref="char:EOLhyphen"/>nes of his owne eſtate, that was neuer beaten downe by the terror of the law,
+<pb n="25" facs="tcp:150408:15"/>
+and the due beholding of Gods iuſtice, ſuch an one can neuer enter heere, this gate is to low for his hautie, carnall, and ſelfe pleaſing ſtomake to enter in at. See an example or two of the ſtooping of Gods children, in their entrance into grace. Looke firſt vpon <note n="x" place="margin">Pſalm. <hi>38.4.</hi>
+               </note> 
+               <hi>Dauid; Mine iniquities are gone ouer my head, and are as awaightie burden too heauie for me;</hi> mee ſeemeth I ſee <hi>Dauid</hi> in this paſſion, like a man oppreſſed with ſome carriage more then hee is able to ſtand vnder, which makes him double, &amp; crouch, &amp; grone, and long to bee eaſed; ſo <hi>Dauid</hi> was with the weight of his ſinnes, hee was ſtroken downe with the ſight and conſi<g ref="char:EOLhyphen"/>deration of them. What thinke wee, did not <note n="y" place="margin">Ezr. <hi>9.6.</hi>
+               </note> 
+               <hi>Ezra</hi> ſtoope, when he prayed, <hi>O my God I am confounded and aſhamed to lift vp mine eyes vnto thee my God, for our iniquities are increaſed ouer our heads, and our treſpaſſe is growne vp to heauen?</hi> Did not <note n="z" place="margin">
+                  <hi>Job</hi> 42.6.</note> 
+               <hi>Iob</hi> ſtoope when he ſaid, <hi>O Lord I abhorre my ſelfe in duſt &amp; aſhes?</hi> Was not <note n="a" place="margin">
+                  <hi>Iſay</hi> 38.14.</note> 
+               <hi>Ezechiah</hi> caſt downe when he cried in the bitternes of his ſoule, <hi>O Lord it hath oppreſſed me, comfort me?</hi> Looke into the newe Teſtament, what thinke wee
+<pb n="26" facs="tcp:150408:16"/>
+of the <note n="b" place="margin">
+                  <hi>Luke</hi> 7.37. <hi>&amp;c.</hi>
+               </note> woman that <hi>lay at Chriſts feete, that waſhed them with teares, and wiped them with the haires of her head,</hi> was not here humilitie? How iudge wee of the <note n="c" place="margin">
+                  <hi>Luke</hi> 18.13.</note> Publican, did hee not manifeſt the hu<g ref="char:EOLhyphen"/>militie of his ſoule euen by the ſtanding of his bodie? hee would not ſo much as <hi>lift vp his eyes to heauen but ſmote his breaſt and ſaid, God be mercifull to mee a ſinner.</hi> Conſider well the example of <note n="d" place="margin">
+                  <hi>Rom.</hi> 7.9.18.</note> S. <hi>Paul, I was once aliue</hi> (ſaith he) <hi>with<g ref="char:EOLhyphen"/>out the law;</hi> he once bare his head as high as the beſt, and I warrant you would not haue feared for profeſſion of religion, to ſet his foote to him that was holieſt; <hi>touching the righteouſnes which is in the Law</hi> (ſaith he) <hi>I was vnblameable:</hi> But when his eyes were opened to ſee his for<g ref="char:EOLhyphen"/>mer error, when he had found out the true way to life, &amp; began to frame to en<g ref="char:EOLhyphen"/>ter in it, then he ſtooped, <hi>I know that in me dwelleth no good thing; I count al things but</hi> 
+               <note n="c" place="margin">
+                  <hi>Phil.</hi> 3.6.8.</note> 
+               <hi>loſſe, for the excellent knowledge ſake of Chriſt Ieſus my Lord; I iudge them to be dung, that I may win Chriſt:</hi> here was a man ſtroken downe, outwardly in bo<g ref="char:EOLhyphen"/>dy, when he ſaw the light from heauen on the way, but much more in heart,
+<pb n="27" facs="tcp:150408:16"/>
+when he ſaw after his long wandring, the ſtraite gate that leadeth vnto heauen. This is the courſe that all that will be ſa<g ref="char:EOLhyphen"/>ued muſt come vnto.</p>
+            <p>It is of very great vſe.<note place="margin">Vſe.</note> It will proue a great many of vs to be meere ſtrangers to the way to life. For why? It may bee truly ſaid of vs, as the Lord ſpake once of the <note n="f" place="margin">
+                  <hi>Ierem.</hi> 44.10.</note> Iewes, <hi>we are not humbled to this day:</hi> the naturall pride of our hearts is not yet beaten downe, there be but few that ſtoope and are caſt downe with the ſight of their owne ſpirituall baſeneſſe, few that ſtand in awe of Gods Maieſtie, and that tremble at his word. The proud <note n="g" place="margin">
+                  <hi>Luke</hi> 18.11.</note> Phariſee that ſtood vaunting, <hi>God I thanke him, I am thus and thus,</hi> hath ma<g ref="char:EOLhyphen"/>ny followers; but the poore Publican that hung downe his head, the conſci<g ref="char:EOLhyphen"/>ence of his ſinnes filling his face with ſhame, hath but few like him: What one of many hath learned with <note n="h" place="margin">2. <hi>Sam.</hi> 6.22.</note> 
+               <hi>Dauid, to be low in his owne ſight? Pauls</hi> 
+               <note n="i" place="margin">1. <hi>Cor.</hi> 3.18.</note> rule, <hi>If any ma<g ref="char:cmbAbbrStroke">̄</g> amo<g ref="char:cmbAbbrStroke">̄</g>g you ſeeme to be wiſe in this world, let him be a foole that he may be wiſe:</hi> few know it, but fewer vnderſta<g ref="char:cmbAbbrStroke">̄</g>d it, but they be feweſt of all that haue practiſed it. O
+<pb n="28" facs="tcp:150408:17"/>
+when ſhall we be found to be humbled in that meaſure as the Corinthians were, to whom <hi>Paul</hi> was forced to write a letter of comfort to reuiue them? One is puffed vp with a conceipt of his owne ſufficiency and knowledge, and ſcornes the ſimplicitie of the Goſpell, and to ſit in the learners forme in Chriſts ſchoole. Another is frozen in ignorance &amp; blind<g ref="char:EOLhyphen"/>nes, and knowes nothing by himſelfe, his very vices ſeeme vertues vnto him, euery thing is with him as it ought to be. A third is lifted vp with a preſumptu<g ref="char:EOLhyphen"/>ous opinion of Gods mercie, and thinks it a matter of eaſines to obtaine it, ſo that he neuer ſo much as thinkes vp<g ref="char:EOLhyphen"/>on yeelding, and vpon the humbling of his ſoule before the Lord: ſo that wee may wel be ſaid to be ſtrangers from the way of life, ſith wee will not ſtoope ſo low, as this ſtraite gate of humilitie. Beg we of God therefore, that he would bind our yron neckes, that he would take the ſtiffe ſtony hearts out of our bodies, and giue vs hearts of fleſh, yeelding and flexible, and eaſie to be bent, that being once become euen as nothing in our
+<pb n="29" facs="tcp:150408:17"/>
+owne opinion, we may be ſit paſſengers for this little and low doore that leadeth vnto life.</p>
+            <p>Well it followeth:<note place="margin">
+                  <hi>Doctr.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> together with this ſtooping, there muſt go (as I ſaid) a cer<g ref="char:EOLhyphen"/>taine ſtripping of our ſelues alſo; he that would go through a ſtrait way, a narrow entry, it is no wiſedome for him to clog himſelfe with many things about him, he had need rather to lighten himſelfe, that he may go through with the greater eaſe. So muſt it be in this caſe, the gate you ſee to life, is ſtrait and pinching, and therfore as the <note n="k" place="margin">
+                  <hi>Hebr.</hi> 12.1.</note> Apoſtle ſpeaketh to the Hebrewes (very fitly for this purpoſe) <hi>The ſinne that hangeth ſo fast on, must be ſhaken off: the</hi> 
+               <note n="l" place="margin">
+                  <hi>Epheſ.</hi> 4.22.</note> 
+               <hi>old man must be caſt off; the</hi> 
+               <note n="m" place="margin">
+                  <hi>Galat.</hi> 5.24.</note> 
+               <hi>fleſh with the affections and luſts muſt be mortified: our</hi> 
+               <note n="n" place="margin">
+                  <hi>Coloſſ.</hi> 3.5.</note> 
+               <hi>members that are on earth muſt be crucified; the</hi> 
+               <note n="o" place="margin">
+                  <hi>Rom.</hi> 6.13.</note> 
+               <hi>weapons of vnrigh<g ref="char:EOLhyphen"/>teouſnes muſt be laid aſide;</hi> we muſt leaue our old ſinnes behind vs, if we will enter in heere, to bring them in with vs at this little gate it is impoſſible. The couetous man with his bags, the ſwearer with his great oathes, the malicious man that ſwelleth with his malice, the ambitious with his high thoughts, the vicious with
+<pb n="30" facs="tcp:150408:18"/>
+his minions, the drunkard with his full cups, theſe and the like to theſe can ne<g ref="char:EOLhyphen"/>uer enter heere with their dependances. What ſin ſoeuer thou haſt formerly de<g ref="char:EOLhyphen"/>lighted in, if it were to thee as thy right hand, or thy right eie, thou muſt cut it off and caſt it from thee, thou muſt ſtriue to ſtrippe thy ſelfe of it, or elſe this gate is much too little for thee to goe in at. This is like the hole the Snake creepeth through, where he leaues his old skinne behind him. If thou meane to come here, thou muſt then ſay with <note n="p" place="margin">1. <hi>Pet.</hi> 4.2.3.</note> S<hi rend="sup">t</hi>. <hi>Peter, It is enough for me that I haue ſpent the time paſt of my life, after the luſts of the Gen<g ref="char:EOLhyphen"/>tiles walking in wantonnes, luſts, drunken<g ref="char:EOLhyphen"/>nes, gluttonie, drinkings; and in abhomina<g ref="char:EOLhyphen"/>ble Idolatries;</hi> other things, better things are now expected of me; eue<g ref="char:cmbAbbrStroke">̄</g> that hence<g ref="char:EOLhyphen"/>forth, <hi>I ſhould liue, not after the luſtes of men, but after the will of God.</hi> It is an ex<g ref="char:EOLhyphen"/>cellent place. I could bring in a cloud of witneſſes to make good this point, that old ſinnes muſt be ſtript off, when wee once put our foote to the threſhold of this ſtraite gate. This I may bee bold to ſay, for I know it is true, that there is no mans or womans conuerſion recorded
+<pb n="31" facs="tcp:150408:18"/>
+in the Scripture, but there is a manifeſt change noted in them <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Infirmities they had ſtill, but ſinne raigned not in them, as it did before. And there is great reaſon for it: For if a man entering into the pro<g ref="char:EOLhyphen"/>feſſion of Chriſtianitie, might ſtill haue libertie to follow the waies of his owne heart, and to pleaſe himſelfe, in fulfilling of his owne luſts; what great thing were it to be religious? If he that had been ig<g ref="char:EOLhyphen"/>norant, might be ignorant ſtill, hee that had been filthie, might be filthie ſtill, he that had been an oppreſſor, might op<g ref="char:EOLhyphen"/>preſſe ſtill, and ſo in other ſpecialties; all the world then would be religious; what great thing then ſhould Chriſt bee thought to work in vs, &amp; for vs, if our old corruptions ſhould raigne, &amp; we ſhould not be freed from the dominion of ſin.</p>
+            <p>This point wil diſcouer vnto many of vs, the follie and vanitie of our hearts;<note place="margin">Vſe.</note> we will needs be thought to be in the right way, and to haue choſen the true courſe vnto eternall happines, but yet in the meane time we will not forſake our old faſhions, ſomewhat or other is behind, which either for profit, or pleaſure, or eſtimations ſake, we will not be beaten
+<pb n="32" facs="tcp:150408:19"/>
+from ſome ſweete ſinne or other, that if it were poſſible wee would euen carry with vs into heauen, and ſo by that meanes wee doe vtterly barre vp againſt our ſelues, our entrance into life. I pray you let vs not be deceiued: Let me pro<g ref="char:EOLhyphen"/>pound vnto you the ſame queſtio<g ref="char:cmbAbbrStroke">̄</g>, which <hi>Paul</hi> propounded vnto King <hi>Agrippa;</hi> Tell me, <hi>doe you beleeue the Scripture</hi> 
+               <note n="q" place="margin">
+                  <hi>Act.</hi> 26.27.</note> Thinke you that it is true which Chriſt heere ſaith, that the gate to heauen is a <hi>ſtraite gate?</hi> If you do, thinke with your ſelues, what other reaſon can be deuiſed, why it ſhould ſo be tearmed, then this; becauſe it requireth the ſtripping off of our old corruptions? If you agree this to be the meaning, how ſhall we then hope to be ſaued, and yet willingly, purpoſe<g ref="char:EOLhyphen"/>ly, and aduiſedly, retaine, and hold faſt our old ſinnes, as though wee would at once ſerue both God and Mammon; walke both in the Lords way, and in our owne way. Theſe things cannot hold, vn<g ref="char:EOLhyphen"/>leſſe we thinke to make God a lyer. Stri<g ref="char:EOLhyphen"/>uing to enter in at the ſtraite gate, and a not ſtriuing againſt our owne ſelfe-plea<g ref="char:EOLhyphen"/>ſing humors, theſe things cannot agree. This is the vſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div n="2" type="sermon">
+            <pb n="33" facs="tcp:150408:19"/>
+            <head>THE SECOND SERMON.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Proceed ſtill in the matter, which in the beginning I told you was moſt agree<g ref="char:EOLhyphen"/>ing to the maine ſcope of this place of Scripture, which is, to ſhew what things ought of neceſſity to be in all y<hi rend="sup">t</hi> would be ſaued; Foure particulars haue been treated of, the reſt now follow to be handled.<note place="margin">
+                  <hi>Doctr.</hi> 1.</note> The fift thing then which by the auctoritie and ſtrength of this text, ought to bee in euery that deſireth ſaluation, is a conti<g ref="char:EOLhyphen"/>nuall proceeding and going on in good things. I doubt not but you ſhall ſee this plainely proued to bee comprehen<g ref="char:EOLhyphen"/>ded in the text. Our ſauiour here com<g ref="char:EOLhyphen"/>pareth heauen to a place, from which by nature we are all eſtranged; true religi<g ref="char:EOLhyphen"/>on is the way leading to it, humility, (the deniall of ourſelues, and the renouncing
+<pb n="34" facs="tcp:150408:20"/>
+the by-paſt pleaſures of ſinne, is the gate entring vs into this way: Now the vſe you know of a <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, is for trauelers, not for idle loyterers, or vaine gazers, or time deluding triflers, ſuch is this ſpirituall way, it is a way leading to life, &amp; therfore requireth a continuall proceeding, from ſtep to ſtep, from grace, to grace, with<g ref="char:EOLhyphen"/>out deſiſting, without tyring, vntill the iourneys end be reached vnto: and this is the expreſſe doctrine of the ſcripture. The author of the epiſtle to the <note n="a" place="margin">
+                  <hi>Hebr.</hi> 6.1.</note> He<g ref="char:EOLhyphen"/>brewes hath two excellent places for this purpoſe; the firſt is in the 6. chap<g ref="char:EOLhyphen"/>ter, where writing vnto thoſe that had been well and carefully inſtructed in the firſt principles of religion (which he ter<g ref="char:EOLhyphen"/>meth the <hi>doctrine of the beginning of Chriſt</hi>) he exhorts them, that not ſatiſ<g ref="char:EOLhyphen"/>fying themſelues therewith as though it were enough that they were thus entred, and as it were ſeaſoned with ſound knowledge, they ſhould now be led for<g ref="char:EOLhyphen"/>ward <hi>vnto perfection;</hi> as if hee had ſaid, Indeede it is true, you haue begun well, yet you muſt not thinke that ſufficient, there is a kind of perfection to be aimed <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you muſt ſtill preſſe and endea<g ref="char:EOLhyphen"/>uour
+<pb n="35" facs="tcp:150408:20"/>
+onwards to obtaine it: the ſecond <note n="b" place="margin">
+                  <hi>Hebr.</hi> 12.1.</note> place is, in the 12. chapter, <hi>caſt away</hi> (ſaith he) <hi>euery thing that preſſeth downe,</hi> (diſcharge your ſelues as much as it is poſſible of all encumbrances) <hi>the ſinne that hangeth ſo faſt on,</hi> ſeeke to bee caſed of it, and <hi>let vs runne with patience, the race which is ſet before vs;</hi> heere, iuſt ac<g ref="char:EOLhyphen"/>cording to this text, hee likeneth the courſe of Chriſtianitie to a race, in which there muſt be a ſpeedie haſtening, with<g ref="char:EOLhyphen"/>out giuing ouer vntill the end of the race be comne vnto. We haue examples here<g ref="char:EOLhyphen"/>of in ſcripture, two chiefly; y<hi rend="sup">e</hi> one in <note n="c" place="margin">
+                  <hi>Pſal.</hi> 119.32.</note> 
+               <hi>Da<g ref="char:EOLhyphen"/>uid, I will runne the way of thy commaun<g ref="char:EOLhyphen"/>dements,</hi> there was a proceeding, a go<g ref="char:EOLhyphen"/>ing on, a grouth in godlines: The other in <note n="d" place="margin">
+                  <hi>Phil.</hi> 3.13.14.</note> 
+               <hi>Paul,</hi> ſpeaking of the excelle<g ref="char:cmbAbbrStroke">̄</g>t know<g ref="char:EOLhyphen"/>ledge of Chriſt, of feeling the vertue of his reſurrection, and of being conforma<g ref="char:EOLhyphen"/>ble to his death; <hi>Brethren</hi> (ſaith hee) <hi>I count not my ſelfe that I haue attayned to it,</hi> (and yet <hi>Paul</hi> was more the<g ref="char:cmbAbbrStroke">̄</g> ordinari<g ref="char:EOLhyphen"/>lie expert in the myſterie of Chriſt) <hi>but one thing I doe, I forget that which is be<g ref="char:EOLhyphen"/>hind,</hi> that which I haue done hitherto, I am euen aſhamed of it, I account it not worth the naming, <hi>I endeuour my ſelfe
+<pb n="36" facs="tcp:150408:21"/>
+vnto that which is before, and follow hard toward the marke, for the price of the high calling of God in Chriſt Ieſus:</hi> it is a place, and an example worthie (as the ſcripture ſpeaketh) to be writte<g ref="char:cmbAbbrStroke">̄</g> with the <hi>point of a Diamond</hi> in the tables of euery Chriſti<g ref="char:EOLhyphen"/>an mans heart. <hi>Dauid,</hi> deſcribing the true worſhippers of God that doe ſerue him in truth of heart without hypocriſie, <note n="e" place="margin">
+                  <hi>Pſalm.</hi> 84.7.</note> ſaith they are ſuch as goe <hi>from ſtrength to ſtrength:</hi> men that doe <note n="f" place="margin">
+                  <hi>Pſalm.</hi> 119.1.</note> 
+               <hi>walke in the law of the Lord:</hi> theſe manner ſpeakings doe neceſſarily imply proceeding. It is truely ſaid, that in religion not to go for<g ref="char:EOLhyphen"/>ward, is to goe backward, and that the mans knowledge and feeling is but a meere conceipt, a matter of fancie on<g ref="char:EOLhyphen"/>ly, which is not accompanied with a de<g ref="char:EOLhyphen"/>ſire of encreaſe. All preaching, all exer<g ref="char:EOLhyphen"/>ciſes of religion aime at one of theſe two, either to conuert thoſe that are vn<g ref="char:EOLhyphen"/>called, or to build vp thoſe which are conuerted. <hi>Deſire the ſincere milke of the word,</hi> ſaith the <note n="g" place="margin">1. <hi>Peter</hi> 2.2.</note> Apoſtle, that <hi>yee may grow thereby;</hi> and God giues the ſpirit vnto his choſen, not only to renew them and to beget in them ſome little ſparkles of grace, but <hi>to make them</hi> 
+               <note n="h" place="margin">
+                  <hi>Hebr.</hi> 13.21.</note> 
+               <hi>perfit in good
+<pb n="37" facs="tcp:150408:21"/>
+workes. We ought to thanke God alwaies for you,</hi> ſaith <note n="i" place="margin">2. <hi>Theſſ.</hi> 1.3.</note> 
+               <hi>Paul</hi> to the Theſſalonians, becauſe <hi>your faith groweth exceeding lie.</hi> The choſen of God are likened to <note n="k" place="margin">
+                  <hi>Pſalm.</hi> 1.3.</note> 
+               <hi>trees</hi> planted by the riuers of waters, <hi>which will bring forth fruite in due ſeaſon, whoſe leafe doth neuer fade:</hi> this is not all, for they doe not only hold their owne, but they are ſo full <hi>of ſap, that they ſhall ſtill bring forth fruit in their</hi> 
+               <note n="l" place="margin">
+                  <hi>Pſal.</hi> 92.14.</note> 
+               <hi>age, and euen then be fat and flouriſhing. Euill men</hi> (ſaith the <note n="m" place="margin">2. <hi>Tim.</hi> 3.13.</note> Apoſtle) <hi>waxe worſe and worſe; and</hi> 
+               <note n="n" place="margin">
+                  <hi>Jſay</hi> 1.5.</note> 
+               <hi>fall away more and more,</hi> from one ex<g ref="char:EOLhyphen"/>tremitie to another; <hi>adding drunkenneſſe to thirſt,</hi> as <note n="o" place="margin">
+                  <hi>Deut.</hi> 29.19.</note> 
+               <hi>Moſes</hi> ſpeaketh. It cannot then but bee a diſhonor vnto God, if his ſpirit ſhall not bee able to worke to the making of thoſe that are his, better, and better, to the leading them by degrees neerer and neerer vnto perfection. Thus you ſee the certaintie of this point, viz. that the enterers into this gate of life, muſt not ſtand (as it were) about the doore, and ſit them downe as ſoone as they haue begun to taſte of good things, but there is a way before them to be tra<g ref="char:EOLhyphen"/>uailed in; and, as through the neceſſitie of nature they come euery day neerer
+<pb n="38" facs="tcp:150408:22"/>
+to the end of their dayes, ſo by the pow<g ref="char:EOLhyphen"/>er of grace, they muſt ſtriue to come eue<g ref="char:EOLhyphen"/>ry day neerer to y<hi rend="sup">e</hi> end of their faith, the ſaluation of their ſoules. Let vs apply it.</p>
+            <p>
+               <note place="margin">
+                  <hi>Vſe.</hi> 1.</note>To reprooue that which hath been re<g ref="char:EOLhyphen"/>prooued often, but is not yet reformed, and that is our ſlacknes, and our ſlug<g ref="char:EOLhyphen"/>giſhnes in ſpirituall things. There is not one man of many, but hee thinks, and is verily perſwaded, that hee hath religion enough and that he is come far enough in the waies of godlines, hee knowes e<g ref="char:EOLhyphen"/>nough, and he is zealous enough: I de<g ref="char:EOLhyphen"/>ſire but the teſtimonies of your owne hearts to witnes with me, whether that which I ſay be not truth; for if it were not ſo that men were ſtrongly perſwa<g ref="char:EOLhyphen"/>ded, that for matters of religion they were forward enough, how could it bee that they ſhould make ſo little account of the meanes to bring them vnto more perfection? how is it poſſible that they ſhould not be aſhamed of themſelues to be found at this houre, as ignorant in the grounds of pietie, and as ſlacke in the duties of Gods worſhip, and in the pra<g ref="char:EOLhyphen"/>ctiſe of holines, as they were many yeres agoe? There bee a great many of vs
+<pb n="39" facs="tcp:150408:22"/>
+touching whom if it be enquired what knowledge in religion they had ſome good number of yeeres ſince, what zeale they ſhewed in the promoting of Gods kingdome, what care in the hearing of Gods word, and in the worſhip and ſer<g ref="char:EOLhyphen"/>uice of his name, and againe how it fa<g ref="char:EOLhyphen"/>reth with them for theſe things at this preſent, it will be found, that looke how it was of old, ſo it is yet, ignorant then, ignorant yet, careles then, careleſſe yet, no alteration, no change vnles it be this, namely that now they are more dull, more vnteachable, more hardned, more cold hearted, more profane, more obſti<g ref="char:EOLhyphen"/>nate, then before. How can this hold for good at the day of triall you ſee the courſe of chriſtianitie which lendeth to eternall happineſſe hath both a gate to enter at, and a way to goe forward in. How ſhall we thinke to arriue at the reſt of the Lord, if we make no conſcience to proceede in goodnes? if wee ſtand at a point, propounding to our ſelues a forme and courſe, which we will ſtill goe round in, like a horſe in a mill, &amp; further then ſo we will not paſſe, we will be at a ſtint in our religion, and beyond that we
+<pb n="40" facs="tcp:150408:23"/>
+will not goe, it is as vnpoſſible for vs to be ſaued, as it is for him to come to a houſe or towne many miles off, who ſee<g ref="char:EOLhyphen"/>ing the way to it, ſtands ſtill in it, and ne<g ref="char:EOLhyphen"/>uer puts one foote forward from the place where hee tooke vp his firſt ſtan<g ref="char:EOLhyphen"/>ding. Thinke not the word of God hath ſpoken theſe things in vaine, ſhadowing out ſpirituall matters vnto vs by earthlie things; Gods purpoſe is to make vs con<g ref="char:EOLhyphen"/>ceiue the truth the better, and by ſuch a place as this is, to conuince vs euen by the light of our own reaſon, y<hi rend="sup">t</hi> there is no hope of ſaluatio<g ref="char:cmbAbbrStroke">̄</g>, without a care to adde daily to our ſpirituall eſtate, to encreaſe in knowledge, to proceede in zeale, to bee more forward in the worſhip of God, to haue more feeling of the loue and fauor of God, euery day then other. If we bee glutted with theſe things, the forenoones hearing filleth our ſtomack, and wee haue no further appetite that day, this daies hearing doth not ſhar<g ref="char:EOLhyphen"/>pen vs againſt the next day, but wee are readie to pleaſe our ſelues with that wee do, and ſo to amplifie it in our owne pri<g ref="char:EOLhyphen"/>uate conceipt, as though no more were needefull: It is a dangerous thing, I
+<pb n="41" facs="tcp:150408:23"/>
+ſhould but deceiue you, and plucke your bloud vpon my head, if I ſhould tell you that this were the way to eternall life.</p>
+            <p>Well for a ſecond vſe,<note place="margin">
+                  <hi>Vſe</hi> 2.</note> if it bee ſo dan<g ref="char:EOLhyphen"/>gerous a thing not to goe forward, what is it thinke wee to goe backward, to de<g ref="char:EOLhyphen"/>cay, and grow cold in our loue to good things. <hi>Their laſt ſtate,</hi> (ſaith our <note n="p" place="margin">
+                  <hi>Luke</hi> 11.26.</note> Saui<g ref="char:EOLhyphen"/>our) <hi>will be worſe the<g ref="char:cmbAbbrStroke">̄</g> their firſt: &amp; it is bet<g ref="char:EOLhyphen"/>ter not to haue knowne the way of</hi> 
+               <note n="q" place="margin">2. <hi>Pet.</hi> 2.21.</note> 
+               <hi>righte<g ref="char:EOLhyphen"/>ouſnes, the<g ref="char:cmbAbbrStroke">̄</g> after they haue known, to turne fro<g ref="char:cmbAbbrStroke">̄</g> the holy co<g ref="char:cmbAbbrStroke">̄</g>maundement giue<g ref="char:cmbAbbrStroke">̄</g> vnto the<g ref="char:cmbAbbrStroke">̄</g>:</hi> The euill ſpirit y<hi rend="sup">t</hi> is once caſt out, bring<g ref="char:EOLhyphen"/>eth with him <hi>ſeauen diuels worſe the<g ref="char:cmbAbbrStroke">̄</g> him<g ref="char:EOLhyphen"/>ſelfe.</hi> It is a matter to bee thought vpon by diuers of vs: There was a time when the word of God was more precious vn<g ref="char:EOLhyphen"/>to vs, and when men and women did e<g ref="char:EOLhyphen"/>uen throng together to this place, many ſeemed euen glad to heare, and to bee made acquainted with good things was a ioy vnto them: But now wee are full, we are (like the nice and vnthankfull Iſ<g ref="char:EOLhyphen"/>raelites) wearie of this Manna, the com<g ref="char:EOLhyphen"/>monnes of Gods bleſſings hath drawne them into contempt. Beware of looking backe, take heed of going from ſtrength
+<pb n="42" facs="tcp:150408:24"/>
+to weakeneſſe, from zeale to coldnes and deadnes of hearte, from carefulnes to ſecuritie, from the louing the houſe of God, and the exerciſes thereof, to lo<g ref="char:EOLhyphen"/>thing them, or at leſt to a leſſe and more cold eſteeming them. We ſhall be vn<g ref="char:EOLhyphen"/>to vs, if wee ſhall now bee glutted with that, which ſometimes we longed for: it is a ſigne that all our ſhewes were but ſhewes, and all our proteſtations but hy<g ref="char:EOLhyphen"/>pocriſie. For <hi>if ye haue</hi> 
+               <note n="r" place="margin">1 <hi>Pet.</hi> 2.2.3.</note> 
+               <hi>taſted how boun<g ref="char:EOLhyphen"/>tifull the Lord is, then yee deſire the ſincere milke of the word to grow thereby:</hi> if yee haue found any ſweetnes in the exerciſes of religion, it is certaine your appetite will bee encreaſed rather then dimini<g ref="char:EOLhyphen"/>ſhed. If our ſpirits bee dulled and tired out with the continuall vſe of theſe holy exerciſes, it is a fearefull ſigne, and yet it is ſo common, that we all haue neede to be admoniſhed of it. And let vs all that profeſſe religion reme<g ref="char:cmbAbbrStroke">̄</g>ber that it is a <hi>way;</hi> life eternall is not by and by poſſeſſed. If there be no proceeding it is dangerous, but if there be backſlyding, if our righ<g ref="char:EOLhyphen"/>teouſnes be <hi>but as the morning dew</hi> 
+               <note n="ſ" place="margin">
+                  <hi>Hoſ.</hi> 6.4.</note>, which the heate of the Sunne ſoone parcheth, it is worſt of all: <hi>the dog to the
+<pb n="43" facs="tcp:150408:24"/>
+vomit, and the ſow to the mire</hi> 
+               <note n="t" place="margin">2. <hi>Pet.</hi> 2, 22.</note> is the hea<g ref="char:EOLhyphen"/>uieſt cenſure, that can bee giuen of any man. <hi>They which haue been once enlight<g ref="char:EOLhyphen"/>ned, and haue</hi> 
+               <note n="u" place="margin">
+                  <hi>Hebr.</hi> 6.5.6.</note> 
+               <hi>taſted the gifts of Gods ſpi<g ref="char:EOLhyphen"/>rit, if they once fal backe, it is impoſſible they ſhoul be renewed by repentance;</hi> it is a wo<g ref="char:EOLhyphen"/>full ſaying, it ſhould make vs euen trem<g ref="char:EOLhyphen"/>ble to conſider it.</p>
+            <p>Now to this going on, &amp; proceeding in the way to life, there are ſundry things belonging, which it is very meet that we ſhould be made acquainted with, they are impertine<g ref="char:cmbAbbrStroke">̄</g>t neither to the matter nor to the text. The firſt is, continuall gui<g ref="char:EOLhyphen"/>dance and direction. A man that is to Iourney in a way vnknowne, will not be ſatisfied with this alone, that he is ſet in<g ref="char:EOLhyphen"/>to the right way, but, co<g ref="char:cmbAbbrStroke">̄</g>ſidering the poſ<g ref="char:EOLhyphen"/>ſibility of erring, he will furniſh himſelfe with as many directions as he can, glad he wil be of any mans company that vn<g ref="char:EOLhyphen"/>derſtandeth the way; ſometimes he will be at the charge rather then faile, to hire a man that may conduct him: The way of peace which leadeth vnto happines, is a way which fleſh and blood is not ac<g ref="char:EOLhyphen"/>quainted with, and the nature of man is of it ſelfe very ſubiect to miſtaking, ther<g ref="char:EOLhyphen"/>fore
+<pb n="44" facs="tcp:150408:25"/>
+his duty that would grow in godli<g ref="char:EOLhyphen"/>nes, is to get vnto him the direction of ſome ſure guide, which will not deceiue him, that ſo he may not faile of the end and marke which hee deſireth. This was <note n="*" place="margin">
+                  <hi>Pſal.</hi> 119.27.</note> 
+               <hi>Dauids</hi> care, as appeareth by many ſpeeches of his: <hi>Make me to vnderstand the way of thy precepts:</hi> verſ. 33. <hi>Teach me the way of thy ſtatutes:</hi> verſ. 35. <hi>Direct me in the path of thy Commandements;</hi> verſ. 133. <hi>Direct my ſteppes in thy word.</hi> The grand guid (whoſe directions are al-on<g ref="char:EOLhyphen"/>ly to be looked vnto, &amp; cannot deceiue) is the Lord Ieſus. <hi>I am the way</hi> (ſaith <note n="x" place="margin">
+                  <hi>John</hi> 14.6.</note> he) <hi>and no man commeth vnto the Father but by me.</hi> And y<hi rend="sup">e</hi> Apoſtle to the <note n="y" place="margin">
+                  <hi>Hebr.</hi> 12.2.</note> Hebrewes, exhorting to <hi>run the race which is ſet be<g ref="char:EOLhyphen"/>fore vs,</hi> bids vs withall to looke vpon the author &amp; finiſher of our faith: his blood as the <note n="z" place="margin">
+                  <hi>Chap.</hi> 10.19.20.</note> ſame Apoſtle ſpeaketh, hath <hi>pre<g ref="char:EOLhyphen"/>pared a new and liuing way.</hi> The direction which Chriſt giueth, is comprehended in his Word, which is therefore often in the Scripture tearmed the <hi>Lords way,</hi> be<g ref="char:EOLhyphen"/>cauſe no courſe can bring a man vnto e<g ref="char:EOLhyphen"/>ternall life, but that which is there pre<g ref="char:EOLhyphen"/>ſcribed. <hi>Dauid</hi> 
+               <note n="a" place="margin">
+                  <hi>Pſa.</hi> 119.105</note> ſaith, this <hi>Word was a light vnto his path:</hi> and <note n="b" place="margin">2. <hi>Pet.</hi> 1.19.</note> 
+               <hi>Peter</hi> co<g ref="char:cmbAbbrStroke">̄</g>mends
+<pb n="45" facs="tcp:150408:25"/>
+thoſe to whom hee wrote, becauſe they <hi>gaue heed to it,</hi> as to the beſt and ſureſt in<g ref="char:EOLhyphen"/>ſtructer. The Word of God contained in Scripture is fitly compared to the pillar of the cloud which led the people of Iſ<g ref="char:EOLhyphen"/>rael in the wilderneſſe; when that went forward the people marched, when that ſtayed, the people ſtood ſtill; all their iourney was framed according to the mouing of the cloud: of the ſame vſe is this Word of God in the way to life, whe<g ref="char:cmbAbbrStroke">̄</g> that calleth, we may &amp; muſt moue, when that reſtraineth, we ought not to put for<g ref="char:EOLhyphen"/>ward, our care muſt be to ſute our courſe and cariage thereunto. Now as Chriſt the head guide hath left the fulnes of dire<g ref="char:EOLhyphen"/>ction in his written Word, ſo he hath en<g ref="char:EOLhyphen"/>truſted the Miniſters of his Church ther<g ref="char:EOLhyphen"/>with, he <hi>hath committed it vnto them,</hi> as the <note n="c" place="margin">2. <hi>Cor.</hi> 5.19.</note> Apoſtle ſpeaketh, not that they ſhould engroſſe it to themſelues, and leade the people of God which way the<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſelues pleaſe, but that they might ſtudie to ſearch out the hid matter thereof, and apply it to the directio<g ref="char:cmbAbbrStroke">̄</g> of Gods Church, according to euery mans occaſion. For this cauſe the Paſtors of the Church in reſpect of their functio<g ref="char:cmbAbbrStroke">̄</g> are called <note n="d" place="margin">
+                  <hi>Heb.</hi> 137.17.</note> 
+               <hi>Lea<g ref="char:EOLhyphen"/>ders
+<pb n="46" facs="tcp:150408:26"/>
+or Guides:</hi> and whereas Chriſt cals ignorant and erroneous teachers <note n="e" place="margin">
+                  <hi>Matth.</hi> 15.14.</note> 
+               <hi>blind guides,</hi> it argueth that ſound inſtructors are well termed by y<hi rend="sup">e</hi> name of <hi>Guids.</hi> The interpreting of the Scripture, is called a guiding of the hearers. When <hi>Philip</hi> de<g ref="char:EOLhyphen"/>maunded of the Eunuch, reading (as he rode) vpon <hi>Eſay,</hi> 
+               <note n="f" place="margin">
+                  <hi>Act.</hi> 8.31.</note> 
+               <hi>whether he vnderſtood that which he read;</hi> he anſwered him, <hi>how can I, except I had a guide:</hi> meaning ex<g ref="char:EOLhyphen"/>cept hee had one to expound vnto him. So then, hitherto the matter is now brought; he that would go on, and pro<g ref="char:EOLhyphen"/>ceed as he ought in the way to life, muſt get himſelfe a <hi>guide.</hi> The head-guide is the Lord Ieſus, hee hath recommended his directions vnto vs in his Word, and for the common benefit and inſtruction of his Church, he hath giuen gifts vnto men, and enabled them to lay open the myſterie of the Scripture, and by this his ordinance, he guideth &amp; directeth thoſe that are in his eternall counſell ordained vnto life. So that as it is ſaid of the iour<g ref="char:EOLhyphen"/>ney of the Iſraelites, that <hi>God did leade them like ſheepe by the hands of</hi> 
+               <note n="g" place="margin">
+                  <hi>Pſalm.</hi> 77.20.</note> 
+               <hi>Moſes and Aaron:</hi> ſo it is true in this ſpirituall voyage, that the Lord leadeth his choſen
+<pb n="47" facs="tcp:150408:26"/>
+by the hand of his Miniſters. By them <hi>he</hi>
+               <note n="h" place="margin">
+                  <hi>Epheſ.</hi> 4.12.</note> 
+               <hi>gathereth together his Saints.</hi> Theſe I am ſure are all of them ſure grounds that cannot be denied; That the way of life is <milestone type="tcpmilestone" unit="unspecified" n="1"/> to vs vnknowne, and therefore we need a <hi>guide:</hi> Secondly, that Chriſt Ieſus is the <milestone type="tcpmilestone" unit="unspecified" n="2"/> only true <hi>guide:</hi> Thirdly, that he hath re<g ref="char:EOLhyphen"/>giſtred <milestone type="tcpmilestone" unit="unspecified" n="3"/> all his directions in his Word, (that is, <hi>the whole counſell of God</hi>) &amp; that for the diſpenſing of his Word (notwith<g ref="char:EOLhyphen"/>ſtanding the priuate vſe which euery Chriſtian may &amp; ought to haue of it) he hath ordained publique teaching, by which to guide our feete into the way of peace. He that is diſpoſed to be captious, let him thinke well which of all theſe he can except againſt: In the meane time we will take them for truth, and ſo make the beſt vſe of them.</p>
+            <p>This ſheweth that albeit the moſt of vs at this day, that profeſſe religion,<note place="margin">Vſe.</note> haue choſen guides vnto our ſelues, yet wee faile in chuſing the true direction: ſome are guided by their owne priuate con<g ref="char:EOLhyphen"/>ceipts, ſome by the guiſe of the times, ſome go with the droue and are carried with the multitude, ſome are led only by the courſes of their forefathers, they hold
+<pb n="48" facs="tcp:150408:27"/>
+it a ſure way to doe as they haue done; the direction of Chriſt Ieſus ſpeaking in the Scriptures, and reuealing his aduiſe vnto vs in the miniſtery of his Church, is leaſt looked after. Each ma<g ref="char:cmbAbbrStroke">̄</g> in thoſe caſes thinkes himſelfe wiſe enough, to bee his owne aduiſer. In Phiſicke wee feare our owne iudgement, and beleeue the Do<g ref="char:EOLhyphen"/>ctor; in the Law, our Counſellor: in o<g ref="char:EOLhyphen"/>ther things we ſeek to men that profeſſe knowledge, and are of vnderſtanding in thoſe things wherin we deſire direction: but in Diuinitie, and in the caſes of the ſoule, moſt men imagine they are able to afford themſelues cou<g ref="char:cmbAbbrStroke">̄</g>ſell good enough: hence is it that the knowledge of Gods Word is not cared for, the opening of it by expoſition, the vrging it by exhorta<g ref="char:EOLhyphen"/>tation and reproofe, theſe things are lit<g ref="char:EOLhyphen"/>tle eſteemed: and indeed, if men bee ſo wiſe, that they can by their wiſedome guide themſelues, wherfore ſhould they value them? But <hi>curſed be the man</hi> (ſaith the <note n="i" place="margin">
+                  <hi>Jerem.</hi> 17.5.</note> Scripture) <hi>that maketh fleſh his arme, and withdraweth his heart from the Lord.</hi> God curſeth the fancies of mens owne hearts, and giueth a bleſſing only to the obedient yeelding to his owne ordina<g ref="char:cmbAbbrStroke">̄</g>ce:
+<pb n="49" facs="tcp:150408:27"/>
+what courſe ſoeuer is framed without the Word, be it in mans reaſon neuer ſo plauſible; nay whatſoeuer is ſought for in the word with a relying vpon a mans owne priuate collections in contempt or neglect of the publike meanes, the Lord doth neuer bleſſe it, it turneth into error; and leadeth thoſe that truſt vnto it into deſtruction. This therefore we are taught hence, if we deſire (as be<g ref="char:EOLhyphen"/>commeth vs) to proceed in good things, and according to the aduiſe of the ſpirit of God, to be <hi>led forward vnto perfection,</hi> we muſt ſeeke the direction of the only true guide Chriſt Ieſus in the Scriptures: If we be ſtrangers in the booke of God, we cannot chuſe but be miſtaken, if wee would make true benefit by the Word, the ordinance of God muſt be regarded: and what euer he be that would be gui<g ref="char:EOLhyphen"/>ded in the way of life, hee muſt range himſelfe among the common order of learners in Chriſts ſchoole. This is the right way, there is no bleſſing promiſed of God to any other courſe. Now you will ſay to me (perhaps) this is a very vn<g ref="char:EOLhyphen"/>certaine and hazardous courſe, to bind our ſelues to be guided by men, eſpecial<g ref="char:EOLhyphen"/>ly
+<pb n="50" facs="tcp:150408:28"/>
+now a daies, when as the world is ſo full of ſeducers, and thoſe ſeducers alſo ſo full of ſubtiltie, and euery one making pretences of the truth to be on his ſide? I anſwere, I perſwade not to this, to build vpon men, as though we ſhould receiue directions for matter of ſaluation vpon truſt, beleeuing euery thing that is com<g ref="char:EOLhyphen"/>mended to vs, by thoſe that beare the name of teachers in Gods Church: That were an intollerable bondage, and a ſla<g ref="char:EOLhyphen"/>uery not to be endured; for <hi>the ſpirits muſt be tried</hi> 
+               <note n="k" place="margin">1. <hi>Iohn</hi> 4.1.</note>, and the Scripture muſt be examined whether their doctrine be ac<g ref="char:EOLhyphen"/>cording. If you ſay there is yet no cer<g ref="char:EOLhyphen"/>taintie, for as they may miſtake in tea<g ref="char:EOLhyphen"/>ching, ſo may you in iudging alſo; I an<g ref="char:EOLhyphen"/>ſwere, we muſt be ſo much the more ear<g ref="char:EOLhyphen"/>neſt with the Lord in prayer, y<hi rend="sup">t</hi> his ſpirit may co<g ref="char:cmbAbbrStroke">̄</g>duct vs; &amp; this rule in moſt things we may proceede by. That doctrine which aimeth at this, to bring men only to Chriſt, by driuing them out of them<g ref="char:EOLhyphen"/>ſelues, to reſt alone vpon his worthines, and giues no colour of libertie to any ſinne, but ſtill ſtriues to keepe the cor<g ref="char:EOLhyphen"/>rupt nature of man within compaſſe; that doctrine I ſay is the true way, the prea<g ref="char:EOLhyphen"/>cher
+<pb n="51" facs="tcp:150408:28"/>
+that draweth to this is a true guide, and his direction cannot deceiue vs. This is a plaine rule eaſie to be conceiued, it is a ſhort rule eaſie to be remembred, it is a true rule eaſie to be confirmed, in as much as it agreeth with the whole ſcope of the Scriptures, which is, Chriſt Ieſus freely iuſtifying vs by imputed righte<g ref="char:EOLhyphen"/>ouſnes before God, and powerfully re<g ref="char:EOLhyphen"/>nuing vs, and ſanctifying vs by his ſpirit, to the declaring of the ftuites of obedi<g ref="char:EOLhyphen"/>ence before men. This is the firſt thing that muſt accompany our care to goe on in the way to life; a dependance vp<g ref="char:EOLhyphen"/>on the true guide Ieſus Chriſt, reuealing his holy directions to vs in his word. In ſome matters of interpretation of parti<g ref="char:EOLhyphen"/>ticular text, or ſome points of religion of leſſer moment, it is poſſible for men of the greateſt vnderſtanding finally to miſtake, but he that will in humility, and in a deniall and renouncing of himſelfe take the right courſe to bee ſetled, in <hi>maine matters that do neceſſarily concerne the ſaluation of his ſoule, cannot (though his learning be neuer ſo ſmall) vtterly bee deceiued.</hi>
+            </p>
+            <p>The ſecond thing that muſt accom<g ref="char:EOLhyphen"/>panie
+<pb n="52" facs="tcp:150408:29"/>
+our purpoſe of going on in the way to happines, is circumſpection &amp; an earneſt heeding of our courſe: ſo much is very manifeſt by the text. You ſee heere that as the gate of entrance is termed <hi>ſtraight,</hi> ſo the way of progreſſe is called <hi>narrow:</hi> now a narrow way re<g ref="char:EOLhyphen"/>quireth heedfulnes, a little ſlipping or going to this ſide or that, may breed a great deale of inconuenience. And if we examine the ſcripture, wee ſhall ſee the like heedtaking required in this ſpiritu<g ref="char:EOLhyphen"/>all iourney. It is a charge of the holy Ghoſt, that we ſhould <note n="l" place="margin">
+                  <hi>Epheſ.</hi> 5.15.</note> 
+               <hi>walke circum<g ref="char:EOLhyphen"/>ſpectly,</hi> walke exactly, or curiouſlie, or to ſpeake truly according to the words meaning, walke <hi>preciſely: Make ſtraite ſteppes to your feet, leſt that which is</hi> 
+               <note n="m" place="margin">
+                  <hi>Hebr.</hi> 12.13.</note> 
+               <hi>hal<g ref="char:EOLhyphen"/>ting be turned out of the way. Paul</hi> cal<g ref="char:EOLhyphen"/>leth the life of a chriſtian <hi>a</hi> 
+               <note n="n" place="margin">
+                  <hi>Galat.</hi> 5.16.</note> 
+               <hi>walking by a rule,</hi> as if a man went by a line, which he will not, which he dares not turne from. <hi>Take heede that yee doe as the Lord your God hath</hi> 
+               <note n="o" place="margin">
+                  <hi>Deut.</hi> 5.32.</note> 
+               <hi>commaunded you, turne not aſide to the right hand, nor to the left.</hi> An example we haue in <hi>Dauid;</hi> firſt his reſo<g ref="char:EOLhyphen"/>lution, <hi>I thought I will take</hi> 
+               <note n="p" place="margin">
+                  <hi>Pſalm.</hi> 39.1.</note> 
+               <hi>heede to my waies,</hi> then next his <note n="q" place="margin">
+                  <hi>Pſa.</hi> 119.5.6.</note> prayer, <hi>O that my
+<pb n="53" facs="tcp:150408:29"/>
+waies were made direct,</hi> or ſtraight, caried as it were by a kind of leuell, with a re<g ref="char:EOLhyphen"/>ſpect (as himſelfe after ſpeaketh in the ſame place) <hi>vnto all Gods comma<g ref="char:cmbAbbrStroke">̄</g>dements,</hi> as whe<g ref="char:cmbAbbrStroke">̄</g> a man, hath a marke in his eye, &amp; ſtriues to keep an euen and direct courſe vnto it; or as when a workeman applieth his rule to his worke, and with his beſt indeauour ordereth the ſame according<g ref="char:EOLhyphen"/>ly. This is briefly but yet plainely and vndeniably the truth of this point: hee that deſireth to proceede in the way to happines, muſt reme<g ref="char:cmbAbbrStroke">̄</g>ber the way is nar<g ref="char:EOLhyphen"/>row, he may eaſily ſwarue from it, and it doth therefore call vpon him for verie great heedines and circumſpection.</p>
+            <p>The vſe hereof is to diſcouer two e<g ref="char:EOLhyphen"/>uils in y<hi rend="sup">e</hi> times, the one is careleſnes,<note place="margin">Vſe.</note> the other is profanenes: touching the for<g ref="char:EOLhyphen"/>mer, notwithſta<g ref="char:cmbAbbrStroke">̄</g>ding the ſtraitnes which the word of God enioynes, yet how great is our generall diſſoluteneſſe? who thinkes himſelfe bound to thoſe ſtraite termes, as that hee ſhould make conſci<g ref="char:EOLhyphen"/>ence of euery ſinne? what man doth e<g ref="char:EOLhyphen"/>uen as it were combine, and couenant with himſelfe, to bee ielous ouer all his waies, to ſet a watch before his mouth,
+<pb n="54" facs="tcp:150408:30"/>
+to take heede to his words, to make a couenant with his eyes, to be wary of his lookes, to ponder the path of his feete into what company he comes, to put his knife to his <hi>throat</hi> as <note n="r" place="margin">
+                  <hi>Prou.</hi> 23.2.</note> 
+               <hi>Salomon</hi> ſpeaks, to beware of exceſſe, to keep his heart with dilige<g ref="char:cmbAbbrStroke">̄</g>ce, looking to it, what thoughts he entertaines, to be alwaies fearing, &amp; euer ſuſpecting himſelf, leſt he ſhould be miſ<g ref="char:EOLhyphen"/>carried, to bee ſtill lifting vp his heart to heauen that the Lord may eſtabliſh him: who I ſay entreth into couenant with himſelfe for this ſpirituall heedfullnes? nay rather who doth not aduenture to take liberty vnto himſelfe in ſome one thing or other, according as his humor leadeth him; mincing and extenuating ſinne, and ſuppoſing preſumptuouſly, that a man may wander, and ſtraggle a little from the way, and yet returne. And by this meanes Satan getteth great ad<g ref="char:EOLhyphen"/>uantage againſt many, for while he al<g ref="char:EOLhyphen"/>lureth and telleth them vnder a colour of libertie from an euen and direct courſe, he draweth them on further and further, vntill like a man that hath quite loſt his way, they know not which way to re<g ref="char:EOLhyphen"/>turne. Remember we therefore that the
+<pb n="55" facs="tcp:150408:30"/>
+way to life is a narrow way: it is not ſo (as ſome profanely haue ſaid) that a man if if he will may (as in a iourney hence to London) take his pleaſure by the way, and ride here and there vpon occaſion, and yet at laſt though it bee ſomething the longer firſt, come to the place inten<g ref="char:EOLhyphen"/>ded; and ſo in traueling to heauen en<g ref="char:EOLhyphen"/>ioy the pleaſures of ſinne, and yet for all that, although it be ſomewhat the further way about, arriue at the place of happi<g ref="char:EOLhyphen"/>nes; no it is a narrow way, error on both ſides, a man cannot be too circumſpect. The ſecond euill which this point diſco<g ref="char:EOLhyphen"/>uereth is profanenes, becauſe wheras the word of God requireth in a ma<g ref="char:cmbAbbrStroke">̄</g>s conuer<g ref="char:EOLhyphen"/>ſation very great heedfuldes, yet in the world it is made a ieſt, and a matter of ignominy, and enough is ſuppoſed to be ſpoke<g ref="char:cmbAbbrStroke">̄</g> to a ma<g ref="char:cmbAbbrStroke">̄</g>s reproch, if he be charged with preciſenes. True it is y<hi rend="sup">t</hi> many putting on a ſhew of ſtraitnes, are notwithſtan<g ref="char:EOLhyphen"/>ding looſe enough in many things: but what then? though ſome doe profeſſe godlines in hypocriſie, yet that can iuſt<g ref="char:EOLhyphen"/>ly bee no preiudice to thoſe that doe it in ſinceritie: certaine it is, that in the matters of God, no man can be too pre<g ref="char:EOLhyphen"/>ciſe,
+<pb n="56" facs="tcp:150408:31"/>
+in the watching ouer his owne hart, and in the pondring his waies, no man can be ouer circumſpect; And therefore let men of corrupt minds, who (as <hi>Salo<g ref="char:EOLhyphen"/>mon</hi> ſaith <note n="ſ" place="margin">
+                  <hi>Prou.</hi> 14.9.</note> 
+               <hi>make a mocke of ſinne,</hi> let ſuch I ſay ſcorne as themſelues liſt; yet let ſo many as feare God, and deſire to ap<g ref="char:EOLhyphen"/>proue themſelues vnto him, euer re<g ref="char:EOLhyphen"/>member the narrownes of the way that leadeth vnto life, and aſſure themſelues, that a little wandring after the vanities of their owne hearts, a little ſatisfying themſelues in the pleaſures of ſinne, may ſoone miſlead them, and make the right way very hard to be recouered.</p>
+            <p>The third thing which muſt accom<g ref="char:EOLhyphen"/>pany our purpoſe of going on in the way to happines, is a reſolution and pre<g ref="char:EOLhyphen"/>paration for ſuch encumbrances as may meete vs on the way. It is wiſedome we know in traueling to be prepared for the wether, to be armed againſt ſuch as lie in waite to ſpoile, and do many times make a pray of the goods, nay euen of the liues of the paſſers by: ſo in this caſe, in as much as a man intending to pro<g ref="char:EOLhyphen"/>ceede in the waies of God, ſhall bee aſ<g ref="char:EOLhyphen"/>ſaulted with many grieuances, it is good
+<pb n="57" facs="tcp:150408:31"/>
+policie both to put on a reſolution to wraſtle with them, and to bee armed ſo that he may preuaile againſt them. Firſt in the world a man ſhall receiue many vnkindneſſes and indignities, much re<g ref="char:EOLhyphen"/>proch. <hi>Dauid</hi> ſaith, <hi>the very</hi> 
+               <note n="t" place="margin">
+                  <hi>Pſal.</hi> 35.15.</note> 
+               <hi>abiects aſ<g ref="char:EOLhyphen"/>ſembled themſelues againſt him; they tare him, and ceaſed not; &amp; the drunkards made ſonges of him</hi> 
+               <note n="u" place="margin">
+                  <hi>Pſal.</hi> 69.12.</note>: and the whole <note n="*" place="margin">
+                  <hi>Pſal.</hi> 123.4.</note> Church complaineth, that their ſoule <hi>was to full of mocking of the wealthie, &amp; of the deſpite<g ref="char:EOLhyphen"/>fulnes of the proud.</hi> Secondly the Lord alſo is wont to exerciſe his deareſt ſer<g ref="char:EOLhyphen"/>uants with many croſſes, which to fleſh and bloud are very grieuous and heauie to be borne; <hi>Thine arrowes O Lord</hi> (ſaith <note n="x" place="margin">
+                  <hi>Pſalm.</hi> 38.2.</note> 
+               <hi>Dauid</hi>) <hi>haue light vpon me: I am like a leafe driuen to and fro</hi> ſaith <note n="y" place="margin">
+                  <hi>Chap.</hi> 13. 25.</note> 
+               <hi>Iob.</hi> Third<g ref="char:EOLhyphen"/>lie, Satan is a profeſſed enemie to euerie good courſe, and will lay many baites, and vſe many meanes to withdraw: here pleaſure aſſaults, there profit, there ho<g ref="char:EOLhyphen"/>nour and eſtimation amongſt men, each of them of great force to perſwade: ano<g ref="char:EOLhyphen"/>ther while he rayſeth vp trouble againſt a man euen out of his owne thoughts, ſetting vpon him with the horror of ſin, the terror of the law, the fearefulnes of
+<pb n="58" facs="tcp:150408:32"/>
+Gods Maieſtie, the ſtrictnes of his iu<g ref="char:EOLhyphen"/>ſtice, out of all theſe he will raiſe matter of diſpaire, and preuaile many times ve<g ref="char:EOLhyphen"/>rie farre to the appalling and amaſing of a chriſtian. Theſe things a man inten<g ref="char:EOLhyphen"/>ding to trauaile in the narrow way of life muſt thinke vpon, and not only ſo, but make prouiſion alſo, that ouercoming all encombrances hee may hold out the profeſſion of his hope without wauering vnto the end. Toucing the reproch and obloquie of the diſdainefull world, hee muſt conſider, that in all reproch which is caſt vpon him for his care of a good conſcience, Chriſt is <note n="z" place="margin">
+                  <hi>Hebr.</hi> 13.13.</note> his partner. The taunts which <hi>Moſes</hi> endured at the hands of the Egyptians, are called <hi>the</hi>
+               <note n="a" place="margin">
+                  <hi>Hebr.</hi> 11.26.</note> 
+               <hi>rebuke of Chriſt: Peter</hi> telleth them which are euill intreated for the trueths ſake, that therein they were <note n="b" place="margin">1. <hi>Pet.</hi> 4.13.</note> 
+               <hi>partakers of Chriſts ſuffrings;</hi> what greater com<g ref="char:EOLhyphen"/>fort? ſecondly, that the hatred of the world, is a teſtimonie and an aſſurance to a mans ſoule, that hee is one of Gods choſen: <hi>If ye were of the world, the world would loue his owne, but becauſe yee are not of the world, but I haue choſen you out of the world, therefore the world hateth
+<pb n="59" facs="tcp:150408:32"/>
+you</hi> 
+               <note n="c" place="margin">
+                  <hi>John</hi> 15.19.</note>. Againe touching afflictions and croſſes, he muſt know that they are try<g ref="char:EOLhyphen"/>als of faith, exerciſers of patience, refor<g ref="char:EOLhyphen"/>mers of corrupt affections, meanes to reclaime and withdraw form the world; this will make a man take vp his croſſe cheerefully, and euen reioyce in tribula<g ref="char:EOLhyphen"/>tion. Thirdly concerning Satans aſſaults, hee muſt bee well perſwaded of the be<g ref="char:EOLhyphen"/>witchings of worldly pleaſures, of y<hi rend="sup">e</hi> poi<g ref="char:EOLhyphen"/>ſon that lurketh vnder the name of pro<g ref="char:EOLhyphen"/>fit, of the vanitie of honour and credit amongſt men, hee muſt gather together all the gracious promiſes of mercie in Chriſt, all experimentall teſtimonies of of Gods loue vnto himſelfe, that ſo hee may haue comfort in the middeſt of the ſharpeſt of Sathans encounters. This he muſt doe that would goe on, in the nar<g ref="char:EOLhyphen"/>row way that leadeth vnto life.</p>
+            <p>To reprooue the ſecure neglignce of many profeſſors of religion now a daies,<note place="margin">Vſe.</note> that neuer make any prouiſion for the hardſhip they are like to meete with, if they will be Chriſts diſciples: and ſo by that meanes meeting vnexpectedly with the diſgraces and iniuries of the world, with the ſharpenes of afflictions, with
+<pb n="60" facs="tcp:150408:33"/>
+the bufferings of Sathan, of al which they had little thought before; repent them<g ref="char:EOLhyphen"/>ſelues of the courſe they are entred into, and ſo fal away vnto their wonted cold<g ref="char:EOLhyphen"/>nes. They are like an vnaduiſed trauai<g ref="char:EOLhyphen"/>ler, that beginning his iourney in a faire morning, and ſuppoſing that the wea<g ref="char:EOLhyphen"/>ther will not alter, leaues his furniture behinde by which he ſhould be ſheltred againſt a ſtorme, and then afterward the winds blowing, and the tempeſt riſing, is driuen either to returne backe and ſo to looſe his labour, or elſe to take ſome couert, ſuch as vpon the ſodaine hee can meete with, where though he find ſome little comfort for a time, yet the ſtorme encreaſing, he is driuen thence alſo: ſo is it with many profeſſors, when the times ſeeme to laugh vpon religion, and the entertaining it doth not as yet hazzard any thing which fleſh and bloud affects, they are very forward, but whe<g ref="char:cmbAbbrStroke">̄</g> a ſtorme comes which they looked not for, the world oppoſes it ſelfe, pleaſure muſt be ſequeſtred, profit muſt be neglected, cre<g ref="char:EOLhyphen"/>dit muſt be hazarded, the<g ref="char:cmbAbbrStroke">̄</g> they are found to fal back, not being prouided to beare it out, and ſo make their laſt daies worſe
+<pb n="61" facs="tcp:150408:33"/>
+then their firſt. Let this then among the reſt be borne away: viz. y<hi rend="sup">t</hi> he that would proceede in the way of godlines muſt thinke vpon the diſcouragements hee ſhall meet with, and muſt therefore har<g ref="char:EOLhyphen"/>den himſelfe againſt them, that what e<g ref="char:EOLhyphen"/>uer happen, he may finiſh his courſe with ioy, and may ſo runne, that in the end he may be ſure to obtaine.</p>
+            <p>The laſt thing which muſt accompany our purpoſe of going on, is an often cal<g ref="char:EOLhyphen"/>ling a mans courſe to an account, to ſee whether it be right and ſtraight yea or not he who iourneyeth in a way which he is not acquainted with, it is wiſedome for him euer and anon to be mindfull of the directions which were giuen him, and to remember the marks which were told him, the turnings and the by-pathes which he was warned of, to the end that by thinking hereupon if hee find hee is right, he may proceed with comfort, if he be deceiued, he may returne quickly before hee haue wandered to farre, and erred ouer much. So it muſt bee in this way: <hi>I haue</hi> 
+               <note n="d" place="margin">
+                  <hi>Pſal.</hi> 119.59.</note> 
+               <hi>conſidered my waies</hi> (ſaith <hi>Dauid</hi>) <hi>and turned my feet vnto thy testi<g ref="char:EOLhyphen"/>monies.</hi> You ſee <hi>Dauids</hi> faſhion what it
+<pb n="62" facs="tcp:150408:34"/>
+was, often to view his owne courſes, to ſearch, and to trie his waies, to ſee how he kept his feet in the path of Gods Co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>maundements, and where hee perceiued himſelfe to haue bin miſtake<g ref="char:cmbAbbrStroke">̄</g>, ſtraight he returned, and endeuoured to come back quickely: <hi>I turned my feet vnto thy testi<g ref="char:EOLhyphen"/>monies;</hi> in the next verſe he addes, <hi>I made</hi> 
+               <note n="e" place="margin">
+                  <hi>Verſ.</hi> 60.</note> 
+               <hi>hast and prolonged not.</hi> When the ſame <hi>Dauid</hi> willeth &amp; exhorteth men <hi>to</hi> 
+               <note n="f" place="margin">
+                  <hi>Pſalm.</hi> 4.4.</note> 
+               <hi>exa<g ref="char:EOLhyphen"/>mine their heart vpon their bed;</hi> what doth he meane but that euery man, when hee is alone by himſelfe, ſhould retyre his thoughts, ſhould looke backe into the day paſt, to ſee what he hath done, and how he hath demeaned himſelfe, that ſo he may recouer himſelfe for his often ſlips by repentance, and renue his vow of keeping an euen courſe in the way of life. <hi>Paul</hi> bids we ſhould not <hi>let the ſun go downe</hi> 
+               <note n="g" place="margin">
+                  <hi>Epheſ.</hi> 4.26.</note> 
+               <hi>vpon our wrath:</hi> thence a ge<g ref="char:EOLhyphen"/>nerall rule may be drawne, that no ſinne ſhould bee ſuffered to lodge all night with vs; an account ſhould be taken of our fals, and we ſhould preſently labour to recouer. The Scripture ſpeaking of the care of <hi>Iob</hi> in offering ſacrifice for his children, thinking that in many things
+<pb n="63" facs="tcp:150408:34"/>
+they might ouerſhoot the<g ref="char:cmbAbbrStroke">̄</g>ſelues in their banqueting; addes this clauſe; <hi>Thus did Iob</hi> 
+               <note n="h" place="margin">
+                  <hi>Job</hi> 1.5.</note> 
+               <hi>euery day:</hi> Hee that was thus daily careful about his childrens courſes, what was he (thinke we) for his owne?</p>
+            <p>This point wil diſcouer as much care<g ref="char:EOLhyphen"/>leſnes as any of the former,<note place="margin">Vſe.</note> for who is a<g ref="char:EOLhyphen"/>mongſt vs that doth thus call his life and carriage to an accou<g ref="char:cmbAbbrStroke">̄</g>t, that in an euening when hee is about to take his reſt, and knoweth not whether he ſhal euer wake againe or no, askes himſelfe this queſti<g ref="char:EOLhyphen"/>on, <hi>what haue I done?</hi> how haue I walked this day, how haue I wandered from the path of Gods Commandements, what duties haue I failed in, how far haue the vanities and profits of the world preuai<g ref="char:EOLhyphen"/>led againſt me to miſlead me? who I ſay is wont to keepe this priuy audite with<g ref="char:EOLhyphen"/>in himſelfe; nay who thinkes this to bee a duty that he is tied vnto? And therfore no maruell if ſinne grow ſtrong vpon vs, no wonder if we ſtray far from the right courſe; and if we looke not to it, we will ſoone be drawne into ſuch a maze, that we ſhal not know which way to returne. Let vs take with vs then this inſtruction among others, often to trie our waies,
+<pb n="64" facs="tcp:150408:35"/>
+once a day at leaſt to conſider our cour<g ref="char:EOLhyphen"/>ſes, we do all erre, <hi>in many things</hi> (ſaith S. <hi>Iames) remiſſe all</hi>
+               <note n="i" place="margin">
+                  <hi>James</hi> 3.2.</note>, but by this meanes, error ſhall not preuaile againſt vs, and by vſe we ſhal grow ſo perfect in our waies, that we ſhall very ſeldome be miſtaken.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div n="3" type="sermon">
+            <head>
+               <hi>THE THIRD SERMON.</hi> For it is the wide gate and broade way, that leadeth to deſtruction, and many there be which go in thereat.</head>
+            <p>
+               <note place="margin">The ſecond part of the Text.</note>
+               <seg rend="decorInit">W</seg>E haue done with the ad<g ref="char:EOLhyphen"/>uertiſement it ſelfe, and are now come to the reaſons by which it is enforced. The firſt reaſon runneth thus; becauſe albeit the gate and way which the moſt affect, be <hi>wide and broad,</hi> full of pleaſing, and full of company, yet in the end it <hi>leadeth to deſtruction.</hi> By the
+<pb n="65" facs="tcp:150408:35"/>
+               <hi>gate and way</hi> mentioned in this firſt rea<g ref="char:EOLhyphen"/>ſon, is meant the ſame which elſewhere is called <hi>the way of</hi>
+               <note n="a" place="margin">
+                  <hi>Pſalm.</hi> 1.1.</note> 
+               <hi>ſinners; a way that is not</hi> 
+               <note n="b" place="margin">
+                  <hi>Pſalm.</hi> 36.4.</note> 
+               <hi>good: the way of</hi>
+               <note n="c" place="margin">
+                  <hi>Pſ.</hi> 119.104</note> 
+               <hi>falſhood: an</hi> 
+               <note n="d" place="margin">
+                  <hi>Prou.</hi> 2.12.</note> 
+               <hi>euill way:</hi> it is the gate and way which by na<g ref="char:EOLhyphen"/>ture we all trauaile in, therefore it is tear<g ref="char:EOLhyphen"/>med <hi>our</hi> 
+               <note n="e" place="margin">
+                  <hi>Jſay</hi> 53.6.</note> 
+               <hi>owne way: the way of our owne</hi> 
+               <note n="f" place="margin">
+                  <hi>Jſay</hi> 57.17.</note> 
+               <hi>heart:</hi> becauſe it is a way which of our ſelues without a guide wee go into, and which of our ſelues wee are neuer either able or willing to forſake. It is ſaid to be <hi>a wide and a broad way,</hi>
+               <note place="margin">Wherefore it is called a way, wide and broade.</note> becauſe it is a way of libertie to the fleſh, and giues a man leaue to run any courſe, which his owne priuate corrupt humor doth affect: it is a way which impoſeth no conditions of reſtraint, but whatſoeuer a man (led by the luſts of his owne heart) bends vnto, it allureth him to it, and ſeemeth to ſay as the flattering chaplaynes did to <note n="g" place="margin">1. <hi>King.</hi> 22.</note> 
+               <hi>A<g ref="char:EOLhyphen"/>hab,</hi> touching the expedition againſt <hi>Ra<g ref="char:EOLhyphen"/>moth, Go and prosper.</hi> Now this way not<g ref="char:EOLhyphen"/>withſtanding the pleaſingnes of it, our Sauiour ſaith, <hi>it leadeth to deſtruction; the iſſues of it are the waies of</hi> 
+               <note n="h" place="margin">
+                  <hi>Prou.</hi> 14.12.</note> 
+               <hi>death;</hi> it bring<g ref="char:EOLhyphen"/>eth no ſmall inconuenience, or ſlight an<g ref="char:EOLhyphen"/>noyance, ſuch as loſſe of goods, or ble<g ref="char:EOLhyphen"/>miſh in good name, or ſicknes of body,
+<pb n="66" facs="tcp:150408:36"/>
+but the ſurpaſſing exceeding eternall curſe of God, the vtter ruyne both of ſoule and body, an endleſſe, eaſeleſſe, hopeleſſe miſerie. This then is Chriſts reaſoning, that in as much as there bee but two waies, <hi>a ſtraite,</hi> and <hi>a wide;</hi> and the wide leadeth a man to ſuch an irre<g ref="char:EOLhyphen"/>couerable downefall, therfore we would beware of it, and enter in at the ſtraite gate. This is the meaning briefely: Let vs now ſee what neceſſary matter of in<g ref="char:EOLhyphen"/>ſtruction we may obſerue.</p>
+            <p>
+               <note place="margin">
+                  <hi>Doctr.</hi> 1.</note>Firſt heere we learne, that albeit the way of ſinne be, for the preſent time in the ſenſe and ſeeming of fleſh &amp; blood very delightfull, yet the reward thereof is miſerie, and the end deſtruction. This is the expreſſe doctrine of the Text, and it is eaſily iuſtified by the Scripture. Firſt in generall it is ſaid of all ſinne, that <hi>the</hi> 
+               <note n="i" place="margin">
+                  <hi>Rom.</hi> 6 23.</note> 
+               <hi>wages thereof is death; and that the end of the wicked ſhall be</hi> 
+               <note n="k" place="margin">
+                  <hi>Pſal.</hi> 37.38.</note> 
+               <hi>cut off.</hi> Secondly in particular of ſeuerall ſinnes, the Word of God ſpeaketh very expreſſely to this purpoſe. Of adultery <hi>Salomon</hi> ſaith, (de<g ref="char:EOLhyphen"/>ſcribing the faſhion of a harlot) that in<g ref="char:EOLhyphen"/>deed her chamber is richly deckt, her bed perſumed, and her words very inti<g ref="char:EOLhyphen"/>ſing;
+<pb n="67" facs="tcp:150408:36"/>
+               <hi>but</hi> (ſaith he) <hi>her houſe is the way to the</hi>
+               <note n="l" place="margin">
+                  <hi>Prou.</hi> 7.27.</note> 
+               <hi>graue, which goeth downe to the cham<g ref="char:EOLhyphen"/>bers of death: and her</hi> 
+               <note n="m" place="margin">
+                  <hi>Prou.</hi> 9.18.</note> 
+               <hi>gueſts are in the depth of hell.</hi> Of deceite, <hi>The bread of de<g ref="char:EOLhyphen"/>ceit is ſweete to a man, but afterward his mouth ſhall be filled with</hi> 
+               <note n="n" place="margin">
+                  <hi>Prou.</hi> 20.17.</note> 
+               <hi>grauell,</hi> Of diu<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>kennes, <hi>The wine ſheweth the colour in the cup,</hi> and goeth downe pleaſantly, but in the end thereof, <hi>it will bite like a Serpent, and hurt like a</hi> 
+               <note n="o" place="margin">
+                  <hi>Prou.</hi> 23.32.</note> 
+               <hi>Cockatriſe.</hi> Of the vanity of youth: <hi>Reioyce O young ma<g ref="char:cmbAbbrStroke">̄</g> in thy youth, walke in the wayes of thy heart, and in the ſight of thine eies, but know that for al theſe things God will bring thee to</hi> 
+               <note n="p" place="margin">
+                  <hi>Eccles.</hi> 11.9.</note> 
+               <hi>iudgement.</hi> In all theſe here is a broad pleaſant way, giuing liberty and ſcope enough vnto fleſh and blood, but the end of all is de<g ref="char:EOLhyphen"/>ſtruction. The ſweet meats of wickednes will haue the ſowre ſauce of wretched<g ref="char:EOLhyphen"/>nes and miſerie: we may ſee the ſame al<g ref="char:EOLhyphen"/>ſo verified by examples. <hi>Eue</hi> was made beleeue by the Diuell, that if ſhe would aduenture to eate of the forbidden tree; ſhe ſhould receiue by it great aduance<g ref="char:EOLhyphen"/>ment; <hi>yee ſhall be as</hi> 
+               <note n="q" place="margin">
+                  <hi>Geneſ.</hi> 3 5.7.</note> 
+               <hi>gods knowing good and euill;</hi> (equiuocating with her, as our ſtate Papiſts do now a daies, and begui<g ref="char:EOLhyphen"/>ling her with doubtfulneſſe of termes.
+<pb n="68" facs="tcp:150408:37"/>
+Well, ſhee ſaw the tree was good for meate, pleaſant to the eye, and to be de<g ref="char:EOLhyphen"/>ſired to get knowledge (heere was a way broad and faire enough;) and ſhe tooke and gaue to her husband, and they both did eate: But ſee now whither this way leades them, <hi>Then</hi> (ſaith the Text) <hi>their eyes were opened, and they knew they were naked:</hi> the beginning ſeemed to delight, and to giue hope of great contentment; but the fruit was griefe, and the end con<g ref="char:EOLhyphen"/>fuſion, the iſſue cleane contrary to that which was expected. No doubt the mur<g ref="char:EOLhyphen"/>dering of <hi>Abel</hi> for the time gaue very good ſatisfaction to the malicious and bloud thirſting humor of <hi>Cam,</hi> but hee which lookes vpon the reckoning which followed, and conſidereth how <hi>ſinne lay at the doore</hi>
+               <note n="r" place="margin">
+                  <hi>Geneſ.</hi> 4.7.</note> euer dogging him, and neuer leauing him, till he was euen ſwallowed vp into deſpaire; ſhall ſee a pleaſing courſe carrying him that held it, into a depth of miſerie out of which he was neuer able to recouer. <hi>Moſes</hi> ſpeaking of the times before the floud ſaith thus, <hi>The ſons of God ſaw the daugh<g ref="char:EOLhyphen"/>ters of men that they were faire, and they tooke them wiues of all that they</hi> 
+               <note n="ſ" place="margin">
+                  <hi>Geneſ.</hi> 6.2.</note> 
+               <hi>liked:</hi>
+               <pb n="69" facs="tcp:150408:37"/>
+heere was libertie enough <hi>(all they liked.)</hi> but what was the iſſue, you know the ſto<g ref="char:EOLhyphen"/>ries when they were in the very height of their iollitie, <hi>the floud came and tooke them all away</hi> 
+               <note n="t" place="margin">
+                  <hi>Matth.</hi> 24.39.</note> here was a iourney full of plea<g ref="char:EOLhyphen"/>ſure, but the place of arriual full of miſe<g ref="char:EOLhyphen"/>rie. The rich man of whom Chriſt ſpea<g ref="char:EOLhyphen"/>keth, was <hi>clothed in purple and fine linnen, and fared well and delicately euery day:</hi> here was outward contentment to the full, but wherto did this way lead? wee haue heard what followeth, <hi>the rich man alſo died, and was buried, and was in hell in torments</hi>
+               <note n="u" place="margin">
+                  <hi>Luke</hi> 16.22.23.</note> I could thus eaſily giue you many inſtances, all of them ſeruing to ſhew to vs, how ſinne dealeth with vs as <hi>Ioah</hi> with <note n="*" place="margin">2. <hi>Sam.</hi> 20.9.10.</note> 
+               <hi>Amaſa,</hi> he met him and ſaluted him louingly <hi>(art thou in health my brother)</hi> hee tooke him by the beard with the right hand to kiſſe him, but withall he ſmote him in the fifth rib, and ſhed out his bowels to the ground: E<g ref="char:EOLhyphen"/>uen ſo ſinne creepeth into our boſome, it maketh ſhew of delight, it pretendes the pleaſing of our minds, and the ſatiſfying our humor, but yet it killeth (as it were) with kindnes, and for a little momenta<g ref="char:EOLhyphen"/>nie
+<pb n="70" facs="tcp:150408:38"/>
+pleaſure, it brings eternal ſhame and perpetuall confuſion.</p>
+            <p>
+               <note place="margin">
+                  <hi>Vſe.</hi> 1.</note>The vſe of this point thus prooued ſtandeth thus, The firſt thing that ought to be in him who deſireth truly to repent is a hartie lothing, and an vnfaigned de<g ref="char:EOLhyphen"/>teſtation of ſinne; the fountaine of re<g ref="char:EOLhyphen"/>pentance is the heart, and a man can ne<g ref="char:EOLhyphen"/>uer frame himſelfe to reforme that in his life, which in his heart hee diſliketh not: he therefore that would practiſe the du<g ref="char:EOLhyphen"/>ties of repentance as he ought, muſt en<g ref="char:EOLhyphen"/>deauour to feele in himſelfe a deepe and an implacable hatred againſt ſinne. Now in my opinion there is nothing more of force to bring a man cleane out of conceipt with ſinne, then the ſerious me<g ref="char:EOLhyphen"/>ditation vpon that point which I haue now deliuered. Who is there amongſt vs that would not in his heart loth &amp; de<g ref="char:EOLhyphen"/>reſt ſuch a one as the Prophet <note n="x" place="margin">
+                  <hi>Chapter</hi> 9.8.</note> 
+               <hi>Ieremie</hi> ſpeaketh of, <hi>Who ſpeaketh peaceable to his neighbour with his mouth, but in his heart layeth waite for him,</hi> that puts on a ſhew of friendſhip, and yet vnder a pre<g ref="char:EOLhyphen"/>tence thereof, if hee could, would cut a mans throte; will not euery man ſay,
+<pb n="71" facs="tcp:150408:38"/>
+Lord keepe me from ſuch a friend? And yet euen ſo ſinne dealeth with vs, it pro<g ref="char:EOLhyphen"/>miſeth much contentment, much profit, many benefits, but in the end in ſteed of contentment, there is nothing but vexa<g ref="char:EOLhyphen"/>tion, in ſteed of profit, the vtter loſſe and ruine of a mans ſoule. It is good wiſe<g ref="char:EOLhyphen"/>dome to haue this point euer in a readi<g ref="char:EOLhyphen"/>nes; to lay it vp (as <hi>Mary</hi> did Chriſts ſayings) in the midſt of the heart, it will be as a bulwarke, or braſen ſheild to blunt the point of Sathans perſwaſions. It is his policy to lay a kind of ſiege to a mans thoughts, with a ſeeming good, and as much as in him lieth, to let vs ſee nothing of ſinne, but the outſide pain<g ref="char:EOLhyphen"/>ted ouer like whoriſh <hi>Iezebell</hi> with many glorious ſhewes, and bewitching appea<g ref="char:EOLhyphen"/>rances, pleaſure, profit, honour, eaſe, all very like to draw a man farre, vnleſſe hee be otherwiſe ouerruled by the power of Gods ſpirit. Euery one therefore that would (as S. <hi>Iames</hi> ſpeakes) keepe him<g ref="char:EOLhyphen"/>ſelfe <hi>vnſpotted</hi> 
+               <note n="y" place="margin">
+                  <hi>James</hi> 1.27.</note> muſt bee like the wiſe man, of whom <note n="z" place="margin">
+                  <hi>Eccles.</hi> 2.14.</note> 
+               <hi>Salomon</hi> ſpeakes, <hi>whoſe eyes are in his head,</hi> that is, who looketh not onely to the preſent face of things, but caſteth his thoughts further towards
+<pb n="72" facs="tcp:150408:39"/>
+the iſſue, fearing leſt where the entrance is ſo entiſing, the end may fall out not to be according: the conſideration of the miſerie which may follow, cannot but bee a preſeruatiue to keepe a man from being enchanted with the faire ſhewes of the beginning. How many might be kept from groſſe ſinnes, if they had care to obſerue this rule. In coue<g ref="char:EOLhyphen"/>touſneſſe, ignorance, pleaſure, wanton<g ref="char:EOLhyphen"/>neſſe, libertie, malice, drunkenneſſe, ex<g ref="char:EOLhyphen"/>ceſſe, extortion, falſhood, men looke on<g ref="char:EOLhyphen"/>ly vpon the profit, eaſe, iollity, and worldly eſtimation that doth accompa<g ref="char:EOLhyphen"/>nie them, but the poiſon that lurketh vn<g ref="char:EOLhyphen"/>der theſe, the ſpiritual venome that maſ<g ref="char:EOLhyphen"/>keth vnder theſe deceitfull ſhadowes is either not beleeued, or not thought vp<g ref="char:EOLhyphen"/>on, or elſe in mens priuate conceipts ſo much leſſened, that they poſt on ſtill the rode way being tolled along by the de<g ref="char:EOLhyphen"/>light thereof, and ſo fal into the bottom<g ref="char:EOLhyphen"/>leſſe gulfe, before they are ware of it. Well it is the precept of the holy Ghoſt, that wee ſhould bee <note n="a" place="margin">
+                  <hi>Hebr.</hi> 3.13.</note> 
+               <hi>exhorted, leſt wee ſhould be hardned through the deceitfulnes of ſinne.</hi> I exhort you therefore, and in the Lord entreate you, not to be ſo vnwiſe,
+<pb n="73" facs="tcp:150408:39"/>
+as for a little ſuperficiall pleaſingnes and fleſhly contentment in the wide and broad way of vanitie, to purchaſe to your ſelues ſuch a miſery, the horror, the largenes, the euerlaſting and vnintermit<g ref="char:EOLhyphen"/>ting extent whereof, no man liuing is a<g ref="char:EOLhyphen"/>ble to eſteeme. The life of man heere, is not vnfitly compared to a Theater, in which euery man hath his part, ſome longer, ſome ſhorter, ſome nobler, ſome baſer, according to the diſcretion of the appointer: now would any one take him for better then a mad man, that in an idle humour to weare gay apparell, and to haue the ſtanders by make obei<g ref="char:EOLhyphen"/>ſance to him, would bee content all the reſidue of his daies to be a baſe drudge in a kitchin, or a ſlaue in a galley, vpon condition that for an houre or two, hee might bee attired like a King, and ſit in a chaire of eſtate and take vpon him like a great commaunder? ſurely no. And what are wee then, who hauing a ſhew or two to make vpon the ſtage of this world, are content to buy an endleſſe bondage vnder ſathan, for a tranſitorie ſatisfaction to our owne ſinfull humour, in ſome fleſhly and ſenſuall courſe, and
+<pb n="74" facs="tcp:150408:40"/>
+vpon condition we may haue our fill of it, will not ſticke to hazzard our better part, and to caſt away our owne ſoules? This is the firſt and chiefe vſe of this doctrine.</p>
+            <p>
+               <note place="margin">
+                  <hi>Vſe.</hi> 2.</note>Secondly this point teacheth vs this good leſſon which is a point of eſpeciall wiſdome in Chriſtianity, namely alwaies to haue thoſe courſes in greateſt iealou<g ref="char:EOLhyphen"/>ſie, and to be ſuſpitious of them, that they are not ſuch as it is ſafe for vs to enter in<g ref="char:EOLhyphen"/>to, which at our firſt beginning them, and at the working vpon our thoughts to entertaine them, doe make ſhew of nothing but contentment to our nature, that are euer charming vs with the names of profit, of pleaſure, of aduancement; it is meete for vs to feare that vnder theſe baites, there lyeth ſome ſecret hooke, which if wee doe too greedely catch at the firſt offer, may ſodenly en<g ref="char:EOLhyphen"/>tangle vs, and ſo as it were hooke vs in, that when we would we ſhall not know how to get from it. <hi>The wounds of a lo<g ref="char:EOLhyphen"/>uer,</hi> 
+               <note n="b" place="margin">
+                  <hi>Prou.</hi> 27.6.</note> 
+               <hi>Salomon</hi> ſaith, <hi>are faithfull, but the kiſſes of an enemy are to be taken heede of.</hi> Satan is our grand enemie, and ſinne is the thing he ſeekes to poyſon with, he
+<pb n="75" facs="tcp:150408:40"/>
+laps it vp in the ſweetnes of ſome ſuch thing which is taſtfull to our naturall pa<g ref="char:EOLhyphen"/>late, &amp; when he makes the largeſt offer, as he did to Chriſt, <note n="c" place="margin">
+                  <hi>Matth.</hi> 4.9.</note> 
+               <hi>All this will I giue thee;</hi> then ſome great miſchiefe is to bee feared, for which he laboureth to procure entrance by his plauſible and pleaſing perſwaſions. Happie is hee that hath learned this leſſon, he hath well profited in the ſchoole of Chriſtianity, that doth not creedit the firſt offers, but doubts a fearefull iſſue, where the entrance pro<g ref="char:EOLhyphen"/>miſeth nothing but contentment. It is euer a rule that cannot faile, the broad, pleaſant, euen way, that to fleſh and bloud bringeth little or no encom<g ref="char:EOLhyphen"/>brance, but giues the raines vnto it to goe where it will, is the way that cer<g ref="char:EOLhyphen"/>tainly leadeth to deſtruction. And thus much for the firſt property of this way, it is a wide and a broade way.</p>
+            <p>The ſecond qualitie it hath is,<note place="margin">
+                  <hi>Doctr.</hi> 2.</note> it is full of paſſengers <hi>(And many there be which go in thereat)</hi> from which words we are taught this doctrine: viz. That multitude in matters of religion, is no good rule to proceed by, whether it be in points to be beleeued, or in matters to bee practi<g ref="char:EOLhyphen"/>ſed.
+<pb n="76" facs="tcp:150408:41"/>
+The reaſon is plaine from hence. It is reported heere of the <hi>broad way</hi> which leadeth to hell, that there are <hi>many which go in thereat;</hi> now if number were an ar<g ref="char:EOLhyphen"/>gument ſufficient to proue the goodnes of a courſe, why ſhould it not be alſo a reaſon of value to proue this way which Chriſt heere ſpeaketh of, to be the way that leadeth vnto life: If it be of no force in this particular, neither is it in any o<g ref="char:EOLhyphen"/>ther. A matter may be beleeued and pro<g ref="char:EOLhyphen"/>feſſed by many, a courſe may be follow<g ref="char:EOLhyphen"/>ed and approued by a multitude, and yet there may bee neither ſoundnes in the one, nor holines in the other. In the daies of <hi>Noah,</hi> it is ſaid that God looked vpon the earth, <note n="d" place="margin">
+                  <hi>Geneſ.</hi> 6.12.</note> 
+               <hi>and all fleſh had corrupted his way.</hi> When the Angels were entertained in <hi>Lots</hi> houſe, the men of Sodome pur<g ref="char:EOLhyphen"/>poſing villany and filthines, compaſſed the houſe <note n="e" place="margin">
+                  <hi>Geneſ.</hi> 19.4.</note> 
+               <hi>round about, from the young men euen to the old, all the people from all quarters.</hi> Foure hundred Prophets at one time conſented together in one thing, and when the King asked their aduiſe touching his iourney to Ramoth, all ſaid <note n="f" place="margin">1. <hi>King.</hi> 22.</note> 
+               <hi>Go and prosper,</hi> all ſeeking to flatter the Kings humor. There was a generall con<g ref="char:EOLhyphen"/>ſpiracy
+<pb n="77" facs="tcp:150408:41"/>
+againſt <hi>Ieremy</hi> for the faithfull diſcharge of his dutie: <hi>Come let vs ima<g ref="char:EOLhyphen"/>gine ſome deuiſe against</hi> 
+               <note n="g" place="margin">
+                  <hi>Ierem.</hi> 18.18.</note> 
+               <hi>Ieremy.</hi> When <hi>Pilate</hi> made a motion to the people, what ſhould be done with Chriſt, <hi>They</hi> 
+               <note n="h" place="margin">
+                  <hi>Mat.</hi> 27.22.</note> 
+               <hi>all ſaid, let him be crucified.</hi> When <hi>Ste<g ref="char:EOLhyphen"/>phen</hi> had made his Apology for himſelfe, againſt the falſe imputations which were put vpon him, the Text ſaith the ſtanders by gaue a ſhout <hi>with a loude voyce, and ſtopped their eares, and came vpon him</hi> 
+               <note n="i" place="margin">
+                  <hi>Act.</hi> 7.57.</note> 
+               <hi>all at once.</hi> Of <hi>Simon</hi> the ſorcerer in Sama<g ref="char:EOLhyphen"/>ria, it is ſaid, that to him they gaue heed, <hi>from the leaſt of them, euen to the</hi> 
+               <note n="k" place="margin">
+                  <hi>Act.</hi> 8.9.10.</note> 
+               <hi>grea<g ref="char:EOLhyphen"/>test.</hi> When <hi>Paul</hi> oppoſed himſelfe to the Idolatry of the Epheſia<g ref="char:cmbAbbrStroke">̄</g>s, which worſhip<g ref="char:EOLhyphen"/>ped the Images of <hi>Diana, there aroſe,</hi> ſaith the ſtory, <hi>a ſhout for the ſpace almost of two houres, of all men, crying,</hi> 
+               <note n="l" place="margin">
+                  <hi>Act.</hi> 19.34.</note> 
+               <hi>Great is Diana of the Epheſians.</hi> The Apoſtle co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>plaineth of the ſtate of his times, and e<g ref="char:EOLhyphen"/>uen of thoſe which made profeſſion of religion, and he deliuereth his complaint in theſe words, <note n="m" place="margin">
+                  <hi>Philip.</hi> 2.21.</note> 
+               <hi>All ſeeke their owne, and not that which is Ieſus Christs.</hi> The Spirit of God prophecying by Saint <hi>Iohn</hi> of the co<g ref="char:cmbAbbrStroke">̄</g>ming of Antichriſt, ſaith, <hi>that</hi> 
+               <note n="n" place="margin">
+                  <hi>Apoc.</hi> 13.8.16.</note> 
+               <hi>all that dwell vpon the earth ſhall worſpip him,
+<pb n="78" facs="tcp:150408:42"/>
+whoſe names are not written in the booke of life.</hi> In all theſe examples wee ſee great multitudes, euen ſwarmes of people run<g ref="char:EOLhyphen"/>ning one courſe with one heart, like men poſſeſſed and ruled by one ſpirit, and yet all deceiued: he that ſhould haue groun<g ref="char:EOLhyphen"/>ded his religion vpon theſe, muſt needs haue run himſelfe headlong into error.</p>
+            <p>
+               <note place="margin">
+                  <hi>Vſe</hi> 1.</note>The vſe here of is firſt againſt the Pa<g ref="char:EOLhyphen"/>piſts, who as appeareth in the writings euen of the beſt learned of the<g ref="char:cmbAbbrStroke">̄</g>, do make multitude a note and marke of Gods Church; which howſoeuer it can little auaile them, (becauſe if we reckon only ſuch as know and vnderſtand what they do beleeue and profeſſe, wee may well thinke there are in Chriſtendome more of vs then of them) yet notwithſtanding admit it were ſo, that the greateſt part of Europe were aduiſed and conſtant pro<g ref="char:EOLhyphen"/>feſſors of their religion, what haue they gotten by it, muſt it needs be true which is beleeued and maintained by a multi<g ref="char:EOLhyphen"/>tude? Cannot the generality bee decei<g ref="char:EOLhyphen"/>ued? Is it not poſſible for whole troupes, yea euen of learned men to be miſtaken? Yes certainely. If it be a good reaſon to ſay thus; behold this religion is profeſſed
+<pb n="79" facs="tcp:150408:42"/>
+and receiued by the moſt, therefore it is true; then let vs diſclaime Chriſts aduiſe of entring in at the ſtraite gate, and let vs all chuſe the wide and pleaſant way, for <hi>many there bee that goe in thereat.</hi> It is thought probably, that at this day Ma<g ref="char:EOLhyphen"/>hometiſme (the Turkes religion) hath more vnder it, then Chriſtianity, though we put Papiſts and Proteſtants, and all in the weights againſt it; and that meere Paganiſme is larger then both. Where many ioyne in the truth, there is the Church, but not for the Manies ſake, but for the truthes ſake. It is a good ſaying of <hi>Auguſtine</hi> vpon Pſalme 39. <hi>Si iuſtus es, noli numerare, ſed appende,</hi> that is, if thou wouldeſt deale vprightly in this caſe, take not religion by tale or number, as though that were beſt which moſt re<g ref="char:EOLhyphen"/>ceiue, but try it by weight, if it haue the weight of truth go with it, be they many or few that beleeue it, it skilleth not, it is right though but one, nay though none did entertaine it. This is the firſt vſe. If Chriſt be true in his ſayings, that many go in at the gate that leadeth to deſtru<g ref="char:EOLhyphen"/>ction, ſure then multitude is no marke of the Church, they may bee the greater
+<pb n="80" facs="tcp:150408:43"/>
+part, and yet goe the way that bringeth the goers by it into hell.</p>
+            <p>
+               <note place="margin">
+                  <hi>Vſe</hi> 2.</note>The ſecond vſe is to reforme the com<g ref="char:EOLhyphen"/>mon folly and error of the world, who thinke cuſtome and faſhion, &amp; the guiſe of the greateſt part to be a ſufficient plea, for any courſe which themſelues affect or vndertake, eſpecially it holds in mat<g ref="char:EOLhyphen"/>ters of religion, if men can ſay as of old, our fathers, our rulers, our auncients, the beſt, the moſt, the wiſeſt, the wealthieſt amongſt vs thus they thinke, thus they do, the<g ref="char:cmbAbbrStroke">̄</g> they imagine they haue alledged an argument which cannot be anſwered, a reaſon which cannot be denied. Thus men make themſelues like the froth as S<hi rend="sup">t</hi>. <note n="o" place="margin">
+                  <hi>James.</hi> 1.6.</note> 
+               <hi>Iames</hi> ſpeakes of, which <hi>is caried vp and downe,</hi> with the wind, and the water, ſometimes to this ſide, ſometimes to that: or rather like the beaſts of the field, who thinke nothing but follow the heard, and ſo many times while they ſuppoſe they are going to the paſture to be fed, they are driuen to the Shambles to be ſlaine. <hi>Whom this people and all the men of Iſrael chuſe, his will I be, and with him will I dwell,</hi> ſaith <note n="p" place="margin">2. <hi>Sam.</hi> 16.18.</note> 
+               <hi>Chuſa</hi> to <hi>Abſolon;</hi> and ſo it is euen the religion of many, we
+<pb n="81" facs="tcp:150408:43"/>
+will not be ſingular, look which way the moſt go, that way will we go. It is right as the ſpirit of God ſpeaketh to the <note n="q" place="margin">
+                  <hi>Pſal.</hi> 50.18.</note> vn<g ref="char:EOLhyphen"/>godly man, <hi>when thou feeſt a theefe, thou runneſt with him, when thou ſeeſt an adul<g ref="char:EOLhyphen"/>terer thou art partaker alſo with him.</hi> It is the property of a foole to follow vniuer<g ref="char:EOLhyphen"/>ſally, that which he ſeeth others doe, hee muſt needs alſo do the ſame: yet it is an error we are all apt vnto, and the reaſon is; It is a hard matter to iudge, but it is an eaſie thing to giue credit. Well, let the wiſedome of God be followed, and let his counſell be preferred before our own conceits. Certaine it is, whatſoeuer wee imagine, that the way to hell hath the greateſt ſtore of paſſengers; company is good; but it is better to go the right way all alone, then to wander with a multi<g ref="char:EOLhyphen"/>tude. Therefore god gaue a charge, <hi>thou ſhalt not follow a multitude to doe euill</hi> 
+               <note n="r" place="margin">
+                  <hi>Exod.</hi> 3.2.</note>. What though moſt men in their com<g ref="char:EOLhyphen"/>mon ſpeech take the name of God in vaine, what though the greateſt parte haue the preaching of the word in no eſteeme, make the Sabbath a day of car<g ref="char:EOLhyphen"/>nall delight, neglect the publike wor<g ref="char:EOLhyphen"/>ſhip of God, reproch and ſpeake euill
+<pb n="82" facs="tcp:150408:44"/>
+of the truth; what though <hi>all ſeeke their owne,</hi> as <hi>Paul</hi> ſaith, or as the Prophet ſpeaketh, <hi>from the greateſt euen to the leſt, be giuen to couetouſnes</hi> 
+               <note n="ſ" place="margin">
+                  <hi>Ierem.</hi> 6.13.</note>, what though they <hi>goe by troopes</hi> (as <note n="t" place="margin">
+                  <hi>Chapter</hi> 5. 7.</note> 
+               <hi>Ieremies</hi> words are) <hi>into harlots houſes?</hi> what though the <hi>abiects doe aſſemble themſelues together,</hi> as they did againſt <note n="u" place="margin">
+                  <hi>Pſalm.</hi> 35.15.</note> 
+               <hi>Dauid,</hi> to draw good things into diſgrace? let not this ſway with you ſo farre, as to draw you into the fellowſhip of the ſame euils; remem<g ref="char:EOLhyphen"/>ber, the broade way to eternall ruine hath many that trauell it, ſo that though there be much good fellowſhip, and io<g ref="char:EOLhyphen"/>lity by the way, yet <hi>their way</hi> (ſaith <note n="*" place="margin">
+                  <hi>Prou.</hi> 4.19.</note> 
+               <hi>Salo<g ref="char:EOLhyphen"/>mon) is darknes they know not wherin they ſhall fall.</hi> And who will be ſo in loue with the fellowſhip of others, as to damne himſelf for company? The counſel of the vngodly is pleaſing, the way of ſinners is delightfull, the chayre of ſcorners is very eaſie; but yet bleſſed (ſaith the Pſalmiſt) is he that hath ſtudyed how to auoyd them; when it commeth to that which <note n="*" place="margin">
+                  <hi>Prou.</hi> 1.21.</note> 
+               <hi>Salomon</hi> mentions, <hi>the eating the fruit of their owne way,</hi> and to that in the <note n="y" place="margin">
+                  <hi>Pſal.</hi> 37.38.</note> Pſalme, <hi>the tranſgreſſors</hi> as they haue erred together, ſo they <hi>ſhall bee de<g ref="char:EOLhyphen"/>ſtroyed
+<pb n="83" facs="tcp:150408:44"/>
+together:</hi> what are they then the better for their companie? Thus much for the firſt reaſon, why the ſtraite gate and narrow way are to bee choſen, be<g ref="char:EOLhyphen"/>cauſe though there bee another courſe, more pleaſing to our humors, and better ſtored with companie, yet it leadeth vn<g ref="char:EOLhyphen"/>to deſtruction.</p>
+            <p>The ſecond reaſon followeth which is in direct oppoſition to the former, viz: that albeit the gate and way which Chriſt would haue vs enter into, be ſtrait and narrow, and ſuch as few do trauaile by, yet it is the way to life, and the end thereof is comfort, euen the euerlaſting comfort of a mans ſoule. This is the ge<g ref="char:EOLhyphen"/>nerall meaning of the reaſon; Let vs grow to a particular examination of the points of inſtruction riſing out of it.</p>
+            <p>As this reaſon is in an apparant oppo<g ref="char:EOLhyphen"/>ſition to the former,<note place="margin">
+                  <hi>Doctr.</hi> 3.</note> ſo it affordeth do<g ref="char:EOLhyphen"/>ctrine in nature directly contrary to it; that told vs of ſinne, that beginning in pleaſure, it doth end in miſery; this tel<g ref="char:EOLhyphen"/>leth vs of the duties of holines and righ<g ref="char:EOLhyphen"/>teouſnes; that howſoeuer they ſeeme to lay a kind of reſtraint vpon mans nature, and to curbe and limite him in ſome
+<pb n="84" facs="tcp:150408:45"/>
+courſes, and faſhions which he is prone vnto, yet the iſſue of them is life, and the reward is comfort. Chriſt confeſſeth the <hi>gate to be ſtrait,</hi> and the <hi>way narrow,</hi> but he addes this withall, that it <hi>leadeth vnto life.</hi> For the opening of this doctrine I muſt ſhew vnto you two things; firſt that the duties of pietie and godlines, are at firſt ſomething vnpleaſing to mans na<g ref="char:EOLhyphen"/>ture, (the crookedneſſe and corruption thereof conſidered): ſecondly that what<g ref="char:EOLhyphen"/>ſoeuer the beginning is, yet the end is full of ſweetnes. Touching the former how true it is, may in part bee gathered out of that which hath been ſaid hereto<g ref="char:EOLhyphen"/>fore, touching the things co<g ref="char:cmbAbbrStroke">̄</g>curring with the very act of entrance; humility, and the elinquiſhing of the pleaſures of ſin which wee haue formerly delighted in, both which are directly thwarting and croſſing to mans nature, there being no<g ref="char:EOLhyphen"/>thing that he is of himſelfe more vnwil<g ref="char:EOLhyphen"/>ling to do, then to confeſſe ought againſt himſelfe, to renounce his owne will, and to crucifie and kill the ſtrong affections of his owne heart. But this ſhall better appeare if we enter into conſideration of particulars, what duty of godlines ſoeuer
+<pb n="85" facs="tcp:150408:45"/>
+we thinke vpon, we ſhall find the begin<g ref="char:EOLhyphen"/>ning of it to be vnſauery. If a man will la<g ref="char:EOLhyphen"/>bour after ſome knowledge in religion at the firſt it will ſeeme to be ſomewhat ſtrait and cumberſome, becauſe it wil re<g ref="char:EOLhyphen"/>quire more care in redeeming the time, it will vrge more diligence in hearing, in praying, in meditation, more reſpect to the Sabbath then a man was wont be<g ref="char:EOLhyphen"/>fore to make conſcience of. Heere wil be ſomething to do, and no ſmall wraſtling with a mans thoughts, before he ſhal get the maſtery ouer his owne heart, to retire himſelfe, and to diuert the time formerly accuſtomed to be ſpent in vanity, to the building of himſelfe vp in knowledge. It will ſeeme to a man that there is no life in theſe courſes, nothing but deadnes, and melancholines, and no kind of con<g ref="char:EOLhyphen"/>tentment. Againe, ſuppoſe that a man (heretofore negligent that way) ſhould now begin to haue ſome touch, and ſhould entertaine a reſolution with him<g ref="char:EOLhyphen"/>ſelfe of keeping holy the Lords day, not according to common opinion, but ac<g ref="char:EOLhyphen"/>cording to the true purpoſe &amp; meaning of the Law-maker, thinke wee that hee ſhould not at his very firſt entry into this
+<pb n="86" facs="tcp:150408:46"/>
+way, meet with many diſcouragements? what a burden will heere be for a man to ſeek to draw all his thoughts from earth<g ref="char:EOLhyphen"/>ly buſineſſes (as much as is poſſible) and to giue himſelfe wholy to ſome either priuate or publike courſe, by which the comfort and edifying of his ſoule may be helped forward, what a miſery will it ſeeme, ſo as it were to hedge in himſelfe, that he may not vſe a little excurſio<g ref="char:cmbAbbrStroke">̄</g>, and in ſome little degree giue the raines to his owne affections? this is enough to make any man flie backe, and to crie as the Diſciples did in another caſe, <hi>This is a hard ſaying who may endure it</hi> 
+               <note n="z" place="margin">
+                  <hi>John</hi> 6.60.</note>. Time would faile me, if I ſhould thus proceed to exemplifie this doctrine, I may bee bold to ſay it, becauſe all duties of holi<g ref="char:EOLhyphen"/>nes haue one generall nature, that there is not one among them all, whether it re<g ref="char:EOLhyphen"/>ſpect our immediate ſeruice to God, or our behauiour to men, or that ſobriety and euen framing of our affections in things which concerne our ſelues; I ſay there is not any one ſuch dutie, but if it be looked vpon with an eie of fleſh, it lookes euen as our Sauiour did vpon earth, of whom it is ſaid, that in reſpect
+<pb n="87" facs="tcp:150408:46"/>
+of ſtate and pompe, <hi>there was</hi> 
+               <note n="a" place="margin">
+                  <hi>Eſay.</hi> 53.2.</note> 
+               <hi>nothing in him for which a man ſhould deſire him.</hi> And the reaſon is this. Religion is the ſame to a mans ſoule, that Phiſicke is to his bo<g ref="char:EOLhyphen"/>dy, it is ordained to purge &amp; to reforme it; As therefore the Phiſicke potion at the firſt taking is cleane againſt the ſto<g ref="char:EOLhyphen"/>mack, ſo that men in wiſedome will vſe meanes to keepe it in, that it may worke vpon the diſeaſe; ſo is religion at the firſt taſte without reliſh, ready to cauſe loa<g ref="char:EOLhyphen"/>thing, rather then to perſwade further entrance, and there muſt bee a mind of ſtriuing with a mans ſelfe, before hee can drinke deepely of it, and hold it faſt, that it may worke vpon his cloſe and hidden corruption. It was not for nothing that the Lord conditioneth with vs at our firſt enterance into religi<g ref="char:EOLhyphen"/>on, to giue him our <note n="b" place="margin">
+                  <hi>Prou.</hi> 23.26.</note> 
+               <hi>heart;</hi> for vnleſſe we haue euen reſigned vp our affections vnto him, and haue euen combined with our ſelues, to go through with it, it is in vaine to make any ſhew or offer of obe<g ref="char:EOLhyphen"/>dience. Well, you ſee plainely the firſt point, that the beginning of Good du<g ref="char:EOLhyphen"/>ties is harſh; let mee not ſtay heere, but proceed to ſhew that the end is comfor<g ref="char:EOLhyphen"/>table.
+<pb n="88" facs="tcp:150408:47"/>
+Our Sauiour ſaith heere; <hi>it leadeth vnto life;</hi> and what life doth he meane, or can he meane, but life eternall. <hi>Godli<g ref="char:EOLhyphen"/>nes</hi> (ſaith the <note n="c" place="margin">1. <hi>Tim.</hi> 4.8.</note> Apoſtle) <hi>is profitable vnto all things, which hath the promiſe both of this life, and of that which is to come.</hi> I may ſafely ſay of thoſe which enter into good courſes, as the Pſalme doth, <hi>they doe ſow in teares, but they ſhall reape in</hi> 
+               <note n="d" place="margin">
+                  <hi>Pſal.</hi> 126.5.6.</note> 
+               <hi>ioy, they went weeping and carried precious ſeed with them, but they returne with ioy, and bring their ſheaues.</hi> Nay the Scripture doth not herein delay vs ſo long, as though there were no ſweetnes in religion till hereaf<g ref="char:EOLhyphen"/>ter. I remember Chriſts words in one particular to <hi>Peter,</hi> when <hi>Peter</hi> told him, that he and his fellowes for Chriſts ſake had left all; <hi>I ſay vnto you, there is no man that hath left houſe, or parents, or brethren, or wife, or children</hi> for the kingdome of Gods ſake, <hi>which ſhall not receiue much more in</hi> 
+               <note n="e" place="margin">
+                  <hi>Luke</hi> 18.29.30.</note> 
+               <hi>this world.</hi> So that euen in the preſent life, there is a reward followes, the children of God find an inward and an vnknowne ſweetneſſe, euen in that which at the firſt ſeemed very diſtaſtfull. Chriſt ſaid of himſelfe, that is was meate vnto him <hi>to do the will of him that</hi> 
+               <note n="f" place="margin">
+                  <hi>John</hi> 4.34.</note> 
+               <hi>ſent
+<pb n="89" facs="tcp:150408:47"/>
+him:</hi> and ſo the duties of godlines doe afford a kind of ſecret ſatisfactio<g ref="char:cmbAbbrStroke">̄</g> to thoſe which are exerciſed in them: &amp; though euill men when they look vpon the ſer<g ref="char:EOLhyphen"/>uants of God liuing in obedience, in co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tempt of the world, and in a kind of ſe<g ref="char:EOLhyphen"/>queſtring themſelues from the vaine de<g ref="char:EOLhyphen"/>lights thereof, do imagine they liue a life very tedious and irkeſome, and ſuch as hath no contentment in it, yet by vſe, the Lord making his yoke eaſie, and his bur<g ref="char:EOLhyphen"/>den light, they find that facility in it, that ſweetnes and ſpirituall delight, that if they might, they would not returne back to their wonted liberty in the fleſh, but do carry eue<g ref="char:cmbAbbrStroke">̄</g> a kind of loathing ther<g ref="char:EOLhyphen"/>unto. <hi>I find</hi> (ſaith <note n="g" place="margin">
+                  <hi>Pſalm.</hi> 4.7.</note> 
+               <hi>Dauid) more ioy of heart in the light of thy countenance,</hi> in the ſecret apprehenſion of thy gracious fa<g ref="char:EOLhyphen"/>uour, then the worldlings haue, <hi>when their wheate and wine abounds.</hi> Thus by the handling of theſe two points a part, I haue (I hope) made good my firſt pro<g ref="char:EOLhyphen"/>poſition, that the way of true religion, though it be ſtrait and narrow, and at the firſt entertaines a man with ſhewes of hardſhip and reſtraint, yet the progreſſe is more ſweet, and the end it ſelfe, doth
+<pb n="90" facs="tcp:150408:48"/>
+euen exceed in comfort. Let vs make vſe of it.</p>
+            <p>
+               <note place="margin">Vſe.</note>The vſe hereof is to be an encourage<g ref="char:EOLhyphen"/>ment to all that do begin inwardly and vnfainedly to affect good things, they muſt learne to caſt their eies &amp; thoughts from the preſent ſtraitnes which religion at the firſt enterance into it, ſeemeth to threaten, and to looke further vpon the ſweetnes which doth certainely accom<g ref="char:EOLhyphen"/>pany it. For howſoeuer our obedience ought not to be a hired obedience, but ſuch as in all things doth more reſpect the commander, then the reward which he beſtoweth; yet it pleaſeth God to tender our weakneſſe ſo much, as to prouoke vs and to draw vs on by the promiſe of recompence, leſt we ſhould be wearie and faint in our minds. Our Sauiour arming his diſciples againſt re<g ref="char:EOLhyphen"/>proach, telleth them, <hi>their</hi> 
+               <note n="h" place="margin">
+                  <hi>Matth.</hi> 5.12.</note> 
+               <hi>reward is great in heauen. Moſes</hi> choſe rather to <hi>ſuffer</hi> 
+               <note n="i" place="margin">
+                  <hi>Hebr.</hi> 11.26.</note> 
+               <hi>aduerſitie with the people of God, then to enioy the pleaſures of ſin for a ſea<g ref="char:EOLhyphen"/>ſon;</hi> for (ſaith the Text) <hi>he had respect to the recompence of reward.</hi> Nay of Chriſt himſelfe it is ſaid (and in that very parti<g ref="char:EOLhyphen"/>cular we are willed to follow him) <hi>that
+<pb n="91" facs="tcp:150408:48"/>
+for the</hi> 
+               <note n="k" place="margin">
+                  <hi>Hebr.</hi> 12.2.</note> 
+               <hi>ioy that was ſet before him, he en<g ref="char:EOLhyphen"/>dured the croſſe, and despiſed the ſhame.</hi> Therefore whenſoeuer we feele (being leaning to a good courſe) any diſcou<g ref="char:EOLhyphen"/>ragement to creepe into vs, or any ſecret conceipt, that to do thus and thus, as the word perſwades will bring a burden vp<g ref="char:EOLhyphen"/>on vs, and we ſhall by that meanes de<g ref="char:EOLhyphen"/>priue our ſelues of that fredome which others haue, and which our ſelues alſo haue enioyed, and therfore it is not good to be ſo ſtrait; by and by let vs remem<g ref="char:EOLhyphen"/>ber whither this narrow enterance, this hard and rugged way doth leade vs, the further we go the better it is, and the end it ſelfe will exceed all. <hi>The eye hath not ſeene, the eare hath not heard, neither can it enter into mans heart to conſider,</hi> 
+               <note n="l" place="margin">1. <hi>Cor.</hi> 2.9.</note> 
+               <hi>what things God hath prepared for them that loue him.</hi> It is ſaid of <hi>Iacob</hi> that he ſerued ſeuen yeeres with his vncle <hi>Laban,</hi> for <hi>Rachel</hi> his daughter, but they ſeemed (ſaith the Text) <hi>a few daies, becauſe hee loued her</hi> 
+               <note n="m" place="margin">
+                  <hi>Gen.</hi> 29.20.</note>. So let vs labour to poſſeſſe our ſoules with the loue &amp; delight of the bleſſing promiſed, and we ſhal with eaſe ſwallow vp all encombrances, and grie<g ref="char:EOLhyphen"/>uances in the meane ſpace whatſoeuer.</p>
+            <p>
+               <pb n="92" facs="tcp:150408:49"/>
+               <note place="margin">
+                  <hi>Doctr.</hi> 4.</note>As it was ſaid of the broad way, that many go by it, leſt we ſhould build vpon multitudes, ſo now it is ſaid of the ſtraite courſe, that <hi>few there be that find it,</hi> tea<g ref="char:EOLhyphen"/>ching vs thus much. That the beſt, &amp; the holieſt, and moſt religious courſes, haue the feweſt approuers, and the feweſt fol<g ref="char:EOLhyphen"/>lowers: the beſt number is for the moſt part the ſmalleſt number. The Scripture giueth great light vnto the truth of this doctrine. Thoſe whom the Lord reſerued vnto himſelfe in the generall corruption that was among the Iewes, are tearmed <hi>a</hi> 
+               <note n="n" place="margin">
+                  <hi>Iſay</hi> 1.9.</note> 
+               <hi>ſmall remnant:</hi> They are called <hi>a</hi> 
+               <note n="o" place="margin">
+                  <hi>Iſay</hi> 6.13.</note> 
+               <hi>Tenth,</hi> or (as wee ſpeake) the <hi>tithing part;</hi> there is ods inough; nine to one: they are compared to the <note n="p" place="margin">
+                  <hi>Jſay</hi> 17.6.24.13.</note> 
+               <hi>ſhaking of an Oliue tree, two or three beries are in the top of the vtmoſt boughs, and foure or fiue in the high branches of the fruit thereof.</hi> And thereto ſerueth the complaint made by the <note n="q" place="margin">
+                  <hi>Micha.</hi> 7.1.</note> 
+               <hi>Church; Woe is me, for I am as the ſummer gatherings, &amp; as the grapes of the vintage, there is no cluſter to eate!</hi> wee know when the harueſt is home and the fruit gathered from the trees, a man may cha<g ref="char:cmbAbbrStroke">̄</g>ce find one eare or two of corne ſcat<g ref="char:EOLhyphen"/>tered in the furrowes, or an apple heere
+<pb n="93" facs="tcp:150408:49"/>
+and there vpon, the branches, but they are nothing at all to count vpon: ſo the Church laments her owne deſolateneſſe that ſhe is like the gatherings, the num<g ref="char:EOLhyphen"/>ber of the good is very thinne, not one for many wicked ones. In the Propheſie of <hi>Ieremie,</hi> there the godly are ſaid to be called out, <hi>one of a city, &amp; two of a tribe</hi> 
+               <note n="r" place="margin">
+                  <hi>Ierem.</hi> 3.4.</note>. In <note n="ſ" place="margin">
+                  <hi>Chapter</hi> 3. 12.</note> 
+               <hi>Amos</hi> there is a notable ſimilitude vrged, of a <hi>Sheapheard,</hi> who when the Lion hath made his pray of one of his ſheepe, contenteth himſelfe to take out of the Lions mouth <hi>two legges or a peece of an eare, ſo</hi> (ſaith the Lord) <hi>ſhall the chil<g ref="char:EOLhyphen"/>dren of Iſrael be taken,</hi> heere &amp; there one as it were violently reſcued, &amp; torne out of the common and vniuerſal Apoſtaſy. Chriſt calleth his flocke, <hi>a</hi> 
+               <note n="t" place="margin">
+                  <hi>Luke</hi> 12.32.</note> 
+               <hi>little flocke,</hi> And there are many called, but <hi>few cho<g ref="char:EOLhyphen"/>ſen,</hi> according as of the ſix hu<g ref="char:cmbAbbrStroke">̄</g>dred thou<g ref="char:EOLhyphen"/>ſand that came out of Aegypt, there was but only <hi>two, Caleb,</hi> and <hi>Ioſua</hi> that ente<g ref="char:EOLhyphen"/>red into Canaan. Conſider a little fur<g ref="char:EOLhyphen"/>ther of this point by examples. In the daies before the floud, <note n="u" place="margin">
+                  <hi>Geneſ.</hi> 6.12.</note> 
+               <hi>all fleſh had cor<g ref="char:EOLhyphen"/>rupted his way vpon the earth,</hi> and only <hi>Noah</hi> was a iuſt &amp; an vpright man in his time. Not one iuſt perſon in <hi>Sodome</hi> 
+               <pb n="94" facs="tcp:150408:50"/>
+be<g ref="char:EOLhyphen"/>ſides<note n="*" place="margin">
+                  <hi>Geneſ.</hi> 19.</note> 
+               <hi>Lot.</hi> There were <hi>foure hundred and fiftie Prophets for Baal,</hi> when there was but <note n="x" place="margin">1. <hi>King.</hi> 18.</note> 
+               <hi>one Elias for the Lord.</hi> There were vpon a <note n="y" place="margin">1. <hi>King.</hi> 22.</note> 
+               <hi>foure hundred</hi> flattering Pro<g ref="char:EOLhyphen"/>phets, againſt one honeſt plaine Prea<g ref="char:EOLhyphen"/>cher <hi>Michaiah. Behold</hi> (ſaith <hi>Iſaiah) I and the children whom the Lord hath gi<g ref="char:EOLhyphen"/>uen me</hi> (that is, thoſe whom I haue by my miniſterie begotten vnto God) <hi>are at ſignes and wonders in</hi> 
+               <note n="z" place="margin">
+                  <hi>Jſay</hi> 8.18.</note> 
+               <hi>Iſrael;</hi> it ſeemeth they were but a few, when they were gazed vpon as monſters amongſt men. When <hi>Ioſephs</hi> brethren co<g ref="char:cmbAbbrStroke">̄</g>ſpired againſt him, <hi>they had all conſulted to ſlay him,</hi> ſaue only <note n="a" place="margin">
+                  <hi>Geneſ.</hi> 37.</note> 
+               <hi>Ruben,</hi> there was but one for ten that took pittie. When they ſate in coun<g ref="char:EOLhyphen"/>ſell againſt Chriſt, there was <hi>none ſpake for Chriſt,</hi> but <note n="b" place="margin">
+                  <hi>John</hi> 7.</note> 
+               <hi>Nicodemus.</hi> When <hi>Paul</hi> ſtood forth for his anſwere before <hi>Nero,</hi> not one man aſſiſted him, but <note n="c" place="margin">2. <hi>Tim.</hi> 4.16.</note> 
+               <hi>all for<g ref="char:EOLhyphen"/>ſooke him.</hi> On the contrary we ſhall ſee how the worſt things haue had the grea<g ref="char:EOLhyphen"/>teſt conſent, and the fulleſt, and moſt ge<g ref="char:EOLhyphen"/>nerall approuement. All conſented to the <hi>making of a</hi> 
+               <note n="d" place="margin">
+                  <hi>Exodus</hi> 32.</note> 
+               <hi>golden Calfe.</hi> They came to offer violence to <hi>Lots</hi> houſe, <hi>from the young euen to the old,</hi> euen all the people from all quarters. <note n="e" place="margin">
+                  <hi>Geneſ.</hi> 19.</note> 
+               <hi>Pilate</hi> asked what
+<pb n="95" facs="tcp:150408:50"/>
+ſhould be done with Chriſt, <hi>they</hi> 
+               <note n="f" place="margin">
+                  <hi>Matth.</hi> 27.</note> 
+               <hi>all cri<g ref="char:EOLhyphen"/>ed, crucifie him.</hi> When <hi>Paul</hi> began to preach Chriſt at Epheſus, and to cry out againſt Idolatry, there <hi>aroſe a ſhoute</hi> al<g ref="char:EOLhyphen"/>moſt for the ſpace of two houres, <hi>of</hi> 
+               <note n="g" place="margin">
+                  <hi>Act.</hi> 19.34.</note> 
+               <hi>all men crying, Great is Diana of the Epheſi<g ref="char:EOLhyphen"/>ans.</hi> The Beaſt the <hi>Antichriſt,</hi> maketh <note n="h" place="margin">
+                  <hi>Apoc.</hi> 13.</note> 
+               <hi>all both ſmall and great,</hi> rich and poore, free &amp; bond, <hi>to receiue his marke in their right hands, and in their foreheads.</hi> But what ſhould we ſearch the Scripture for examples, when our owne times and ex<g ref="char:EOLhyphen"/>perience affords ſo many? There be ma<g ref="char:EOLhyphen"/>ny ignorant people, but few that loue true knowledge, many ſwearers, few that make conſcience of an oath, many Sabbath breakers, few that care to keepe it holily, many negligent and vnprofita<g ref="char:EOLhyphen"/>ble hearers, few which take heed how they heare, many vſurers, few that lend (as Chriſt ſaith) without looking for ought againe, many that wring &amp; draw backe in euery good action, few that are open hearted and handed to relieue, ma<g ref="char:EOLhyphen"/>ny that deſpiſe and contemne and neg<g ref="char:EOLhyphen"/>lect the Word, few that honor it &amp; take delight in it. In a word, looke to any pro<g ref="char:EOLhyphen"/>fane, diſordered, couetous, vnruly, car<g ref="char:EOLhyphen"/>nall,
+<pb n="96" facs="tcp:150408:51"/>
+voluptuous courſe, and tell me with what infinite troupes it is followed con<g ref="char:EOLhyphen"/>ſider againe of any religious, zealous, charitable, and holy faſhion, and marke how few there be that do regard it. So that it may bee ſaid of euery ſociety of men, of euery aſſembly, of euery congre<g ref="char:EOLhyphen"/>gatio<g ref="char:cmbAbbrStroke">̄</g> generally, as it was of that of <note n="i" place="margin">
+                  <hi>Reuel.</hi> 3.1.</note> Sar<g ref="char:EOLhyphen"/>die; to ſpeak of the multitude; they haue <hi>a name that they are aliue, but are dead,</hi> called Chriſtians, but haue little religi<g ref="char:EOLhyphen"/>on; If there be any better diſpoſed, they are but as it is ſaid, they are the <hi>feweſt number.</hi> And therefore the courſe which Chriſt will take when he comes to iudge the earth, will be very like to the courſe which <hi>Ioſua</hi> held to find out among the people, what man it was that had ſtollen the <note n="k" place="margin">
+                  <hi>Joſua</hi> 7.16.17.18.</note> 
+               <hi>Babiloniſh garment;</hi> there were ma<g ref="char:EOLhyphen"/>ny brought together, and all to find out one. So at the laſt day, all particular per<g ref="char:EOLhyphen"/>ſons that euer were, are, or ſhall be, ſhall be aſcited to appeare; out of them ſhall bee deducted a ſmaller number which haue heard of Chriſt, out of them a ſmal<g ref="char:EOLhyphen"/>ler portio<g ref="char:cmbAbbrStroke">̄</g>, which haue profeſſed the true religion of Chriſt, and out of them, yet another company, which haue truly pro<g ref="char:EOLhyphen"/>feſſed
+<pb n="97" facs="tcp:150408:51"/>
+the true religion, which haue pro<g ref="char:EOLhyphen"/>feſſed it in ſincerity: which number how<g ref="char:EOLhyphen"/>ſoeuer in it ſelfe conſidered, it be excee<g ref="char:EOLhyphen"/>ding great, yet compared with the reſt, it is but as a handful, or as it is ſaid of the Iſraelites campe in reſpect of the Ara<g ref="char:EOLhyphen"/>mites infinite troups, like <note n="l" place="margin">1. <hi>King.</hi> 20.27</note> 
+               <hi>two little flocks of kiddes.</hi> So will that be verified that is ſaid; the Lord will make a ſhort count in the earth, and though the number of the children of Iſrael (viz. of the peo<g ref="char:EOLhyphen"/>ple profeſſing religion) <hi>be as the ſand of the ſea, yet ſhall but a remnant be ſaued</hi> 
+               <note n="m" place="margin">
+                  <hi>Rom.</hi> 9.27.</note>
+            </p>
+            <p>The vſe hereof is two-fold:<note place="margin">Vſe.</note> The firſt Chriſt teacheth, <hi>ſtriue to enter in at the ſtraite gate, for many I ſay vnto you will ſeeke to enter in, and</hi> 
+               <note n="n" place="margin">
+                  <hi>Luk.</hi> 13.23.24</note> 
+               <hi>ſhall not be able:</hi> the fewer there be that are partakers of the true happines, the more ſhould wee labour to be in that number: we ſit ſtill in our ſecuritie &amp; careleſſenes, as though heauen ſhould be caſt vpon vs, and as if all the world ſhould be ſaued. The bleſ<g ref="char:EOLhyphen"/>ſing of life eternall is great, but it is not common, not all, no not the greateſt part, no not the nobleſt, and wealthieſt part ſhall enioy it: we ſhould therefore throng and thruſt to enter in, becauſe
+<pb n="98" facs="tcp:150408:52"/>
+ſuddenly the gate will bee ſhut vp, and many (ſaith Chriſt) <hi>ſhall ſtriue to enter in, but ſhall not be able.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Vſe</hi> 2.</note>Secondly, this ſerues to be a preſerua<g ref="char:EOLhyphen"/>tiue againſt diſcouragement in thoſe that feare God: as for example. Art thou a man who hauing heretofore runne the ſame courſe with the greateſt part, be<g ref="char:EOLhyphen"/>ginneſt now being inwardly touched by the force and power of the Word, to re<g ref="char:EOLhyphen"/>fraine fro<g ref="char:cmbAbbrStroke">̄</g> many things in which in time paſt thou tookeſt pleaſure, and to looke more narrowly to thy waies then thou waſt wont, and to make conſcience of ſome things, which formerly thou re<g ref="char:EOLhyphen"/>gardeſt not; it may be, that comparing thy courſe, now, with the foregoing, thou findeſt thy ſelfe very ſolitary, like a man in a deſolate, rugged &amp; vntrodden path, hauing very little company, many to diſſwade thee, few to encourage thee, many that will labour to pull thee back, but few or none to prouoke thee for<g ref="char:EOLhyphen"/>ward: be not diſcouraged, be ſure once that it is the courſe which Chriſt calleth thee to by his Word, and then remember that in compariſon of the multitude, the Lords part is but a handfull, the way
+<pb n="99" facs="tcp:150408:52"/>
+to hell hath many paſſengers, and the place it ſelfe is faine to be made larger to receiue them; but as for the path to life eternall; it is hardly entered into, and few there be that find it. And therefore though it may bee thy portion, in thy loue to the Word, in thy labouring after knowledge, in the duties of charity, in religious obſeruing the Lords Sabbath, in peaceablenes, and in diligent follow<g ref="char:EOLhyphen"/>ing of thy calling, to bee in a manner poaſt alone, like a Pellican in the wil<g ref="char:EOLhyphen"/>dernes or as an Owle in the de<g ref="char:EOLhyphen"/>ſart, yet ſay with <hi>Peter, Lord though all men forſake thee, yet wil I neuer leaue thee</hi> 
+               <note place="margin">
+                  <hi>Mat.</hi> 26.23.</note>.</p>
+            <closer>Let God alone haue the Glory.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
